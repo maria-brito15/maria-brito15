@@ -30,14 +30,8 @@
 
 ###
 
-<img align="right" height="120" src="https://i.pinimg.com/originals/20/19/9c/20199c4c3a268222c4cf3cef0d423c17.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maria-brito15/maria-brito15/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maria-brito15/maria-brito15/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maria-brito15/maria-brito15/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="120" src="https://i.pinimg.com/originals/20/19/9c/20199c4c3a268222c4cf3cef0d423c17.gif"  />
+</div>
 
 ###

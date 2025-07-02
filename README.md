@@ -1,36 +1,46 @@
-<h2 align="center">Olá! Meu nome é Duda.<br>Seja bem vindo ao meu GitHub 😊</h2>
+<!-- English Version -->
+# Hi there, I'm Duda Brito!
 
-###
+<i>i need coffee ☕</i>
 
-<h4 align="center">Talk Less, Code More - Hamilton</h4>
+📄 Other Versions: [Portuguese](README_pt.md)
 
-###
+---
 
-<br clear="both">
+🎓 **Computer Science Student**  
+🔥 Backend Enthusiast
+🎬 Passionate about cinema, arts, and music
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-</div>
+---
 
-###
+## 🚀 Tech Stack
 
+- **Languages:** C++, C, JavaScript, HTML, CSS, SASS
+- **Runtimes & Tools:** Node.js, Bootstrap, Git, GitHub
 
-<div align="center">
-  <img height="120" src="https://i.pinimg.com/originals/20/19/9c/20199c4c3a268222c4cf3cef0d423c17.gif"  />
-</div>
+---
 
-###
+## 🛠️ Projects
+
+- [**Planoriza | Gerenciamento de Tarefas**](https://www.linkedin.com/feed/update/urn:li:activity:7342233271881113600/)
+
+  Productivity and time management for students—helping you stay on top of your goals!
+
+- [**People Management System in C++**](https://github.com/maria-brito15/sistema-gerenciamento-pessoas-cpp)  
+
+  Backend system for managing teachers and students.
+
+- [**Movie Catalog Website**](https://github.com/maria-brito15/catalogo-filmes)  
+
+  Displays detailed information about every movie using TMDb API.
+
+---
+
+## 🌎 Connect With Me
+
+- [GitHub](https://github.com/maria-brito15)
+- [LinkedIn](https://www.linkedin.com/in/maria-eduarda-brito-a18064358/)
+
+---
+
+> “Talk Less, Code More!” - Hamilton

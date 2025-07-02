@@ -8,7 +8,7 @@
 ---
 
 🎓 **Computer Science Student**  
-🔥 Backend Enthusiast
+🔥 Backend Enthusiast  
 🎬 Passionate about cinema, arts, and music
 
 ---
@@ -22,16 +22,13 @@
 
 ## 🛠️ Projects
 
-- [**Planoriza | Gerenciamento de Tarefas**](https://www.linkedin.com/feed/update/urn:li:activity:7342233271881113600/)
-
+- [**Planoriza | Gerenciamento de Tarefas**](https://www.linkedin.com/feed/update/urn:li:activity:7342233271881113600/)  
   Productivity and time management for students—helping you stay on top of your goals!
 
 - [**People Management System in C++**](https://github.com/maria-brito15/sistema-gerenciamento-pessoas-cpp)  
-
   Backend system for managing teachers and students.
 
 - [**Movie Catalog Website**](https://github.com/maria-brito15/catalogo-filmes)  
-
   Displays detailed information about every movie using TMDb API.
 
 ---

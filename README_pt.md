@@ -1,13 +1,21 @@
 <!-- Versão em Português -->
 # Olá, me chamo Duda! 😄
 
-<i>preciso de café ☕</i>
-
-🎓 **Estudante de Ciência da Computação**  
-🔥 Entusiasta de Backend  
-🎬 Apaixonada por cinema, artes e música
-
-📄 Outras Versões: [Inglês](README.md)
+<table>
+  <tr>
+    <td>
+      <p><i>preciso de cafe ☕</i></p>
+      <p>🎓 <b>Estudante de Ciência da Computação</b><br/>
+         🔥 Entusiasta de Backend<br/>
+         🎬 Apaixonada por cinema, artes e música
+      </p>
+      <p>📄 Other Versions: <a href="README_pt.md">Portuguese</a></p>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/KuCmU3O8vQUAAAAj/snoopy.gif" alt="Snoopy Coffee GIF" width="150px" />
+    </td>
+  </tr>
+</table>
 
 ---
 

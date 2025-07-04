@@ -1,13 +1,21 @@
 <!-- English Version -->
 # Hello, I'm Duda! 😄
 
-<i>i need coffee ☕</i>
-
-🎓 **Computer Science Student**  
-🔥 Backend Enthusiast  
-🎬 Passionate about cinema, arts, and music
-
-📄 Other Versions: [Portuguese](README_pt.md)
+<table>
+  <tr>
+    <td>
+      <p><i>i need coffee ☕</i></p>
+      <p>🎓 <b>Computer Science Student</b><br/>
+         🔥 Backend Enthusiast<br/>
+         🎬 Passionate about cinema, arts, and music
+      </p>
+      <p>📄 Other Versions: <a href="README_pt.md">Portuguese</a></p>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/KuCmU3O8vQUAAAAj/snoopy.gif" alt="Snoopy Coffee GIF" width="150px" />
+    </td>
+  </tr>
+</table>
 
 ---
 

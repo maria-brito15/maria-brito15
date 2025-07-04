@@ -1,15 +1,28 @@
 <!-- Versão em Português -->
-# Oi! Eu sou a Duda Brito!
+# Olá, me chamo Duda! 😄
 
 <i>preciso de café ☕</i>
+
+🎓 **Estudante de Ciência da Computação**  
+🔥 Entusiasta de Backend  
+🎬 Apaixonada por cinema, artes e música
 
 📄 Outras Versões: [Inglês](README.md)
 
 ---
 
-🎓 **Estudante de Ciência da Computação**  
-🔥 Entusiasta de Backend  
-🎬 Apaixonada por cinema, artes e música
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-brito15&layout=compact&theme=radical" alt="Top Languages" width="285px" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-brito15&theme=radical" alt="GitHub Streak" width="400px" />
+    </td>
+  </tr>
+</table>
 
 ---
 

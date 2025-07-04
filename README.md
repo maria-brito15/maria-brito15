@@ -1,15 +1,28 @@
 <!-- English Version -->
-# Hi there, I'm Duda Brito!
+# Hello, I'm Duda! 😄
 
 <i>i need coffee ☕</i>
+
+🎓 **Computer Science Student**  
+🔥 Backend Enthusiast  
+🎬 Passionate about cinema, arts, and music
 
 📄 Other Versions: [Portuguese](README_pt.md)
 
 ---
 
-🎓 **Computer Science Student**  
-🔥 Backend Enthusiast  
-🎬 Passionate about cinema, arts, and music
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-brito15&layout=compact&theme=radical" alt="Top Languages" width="285px" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-brito15&theme=radical" alt="GitHub Streak" width="400px" />
+    </td>
+  </tr>
+</table>
 
 ---
 

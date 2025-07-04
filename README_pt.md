@@ -28,8 +28,11 @@
 - [**Sistema de Gerenciamento de Pessoas em C++**](https://github.com/maria-brito15/sistema-gerenciamento-pessoas-cpp)  
   Sistema backend para gerenciamento de professores e alunos.
 
+- [ChatApp in Java](https://github.com/maria-brito15/chatApp_java)
+  Primeiro projeto em Java: chat multiusuário usando sockets TCP e multithreading para comunicação em tempo real.
+
 - [**Catálogo de Filmes**](https://github.com/maria-brito15/catalogo-filmes)  
-  Exibe informações detalhadas sobre filmes usando a API do TMDb.
+  Website totalmente funcional (roda localmente) que exibe informações detalhadas sobre filmes usando a API TMDb.
 
 ---
 

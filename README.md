@@ -36,7 +36,7 @@
 
 ## 🚀 Tech Stack
 
-- **Languages:** C++, C, JavaScript, HTML, CSS, SASS
+- **Languages:** (Learning Java) C++, C, JavaScript, HTML, CSS, SASS
 - **Runtimes & Tools:** Node.js, Bootstrap, Git, GitHub
 
 ---

@@ -9,7 +9,7 @@
          🔥 Entusiasta de Backend<br/>
          🎬 Apaixonada por cinema, artes e música
       </p>
-      <p>📄 Other Versions: <a href="README_pt.md">Portuguese</a></p>
+      <p>📄 Other Versions: <a href="README.md">Inglês</a></p>
     </td>
     <td>
       <img src="https://media.tenor.com/KuCmU3O8vQUAAAAj/snoopy.gif" alt="Snoopy Coffee GIF" width="150px" />
@@ -36,12 +36,15 @@
 
 ## 🚀 Tecnologias
 
-- **Linguagens:** C++, C, JavaScript, HTML, CSS, SASS  
+- **Linguagens:** (Aprendendo Java) C++, C, JavaScript, HTML, CSS, SASS  
 - **Ambientes & Ferramentas:** Node.js, Bootstrap, Git, GitHub
 
 ---
 
 ## 🛠️ Projetos
+
+- [**Sistema de Gerenciamento de Estoque com Spring Boot, PostgreSQL e React.js**](https://github.com/maria-brito15/InventoryManager/)
+  Um sistema full-stack de gerenciamento de estoque com operações CRUD, busca em tempo real e interface responsiva.
 
 - [**Planoriza | Gerenciamento de Tarefas**](https://www.linkedin.com/feed/update/urn:li:activity:7342233271881113600/)  
   Produtividade e organização do tempo para estudantes — ajudando você a alcançar seus objetivos!
@@ -49,7 +52,7 @@
 - [**Sistema de Gerenciamento de Pessoas em C++**](https://github.com/maria-brito15/sistema-gerenciamento-pessoas-cpp)  
   Sistema backend para gerenciamento de professores e alunos.
 
-- [ChatApp in Java](https://github.com/maria-brito15/chatApp_java)  
+- [**ChatApp in Java**](https://github.com/maria-brito15/chatApp_java)  
   Primeiro projeto em Java: chat multiusuário usando sockets TCP e multithreading para comunicação em tempo real.
 
 - [**Catálogo de Filmes**](https://github.com/maria-brito15/catalogo-filmes)  

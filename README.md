@@ -43,6 +43,9 @@
 
 ## 🛠️ Projects
 
+-[**Inventory Management with Spring Boot, PostgreSQL and React.js**](https://github.com/maria-brito15/InventoryManagement)
+  A full-stack inventory management system for products with CRUD operations, real-time search, and a responsive interface.
+
 - [**Planoriza | Gerenciamento de Tarefas**](https://www.linkedin.com/feed/update/urn:li:activity:7342233271881113600/)  
   Productivity and time management for students—helping you stay on top of your goals!
 

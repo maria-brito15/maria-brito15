@@ -43,16 +43,19 @@
 
 ## 🛠️ Projects
 
-- [**Inventory Management with Spring Boot, PostgreSQL and React.js**](https://github.com/maria-brito15/InventoryManager/)  
+- [**FinanceApp - FullStack**](https://github.com/maria-brito15/FinanceApp/)  
+  FinanceApp is a fullstack personal finance app using Spring Boot, Node.js, and React, with secure auth and transaction management.  
+  
+- [**Inventory Management - FullStack**](https://github.com/maria-brito15/InventoryManager/)  
   A full-stack inventory management system for products with CRUD operations, real-time search, and a responsive interface.
 
 - [**Planoriza | Gerenciamento de Tarefas**](https://www.linkedin.com/feed/update/urn:li:activity:7342233271881113600/)  
   Productivity and time management for students—helping you stay on top of your goals!
 
-- [**People Management System in C++**](https://github.com/maria-brito15/sistema-gerenciamento-pessoas-cpp)  
+- [**People Management System - C++**](https://github.com/maria-brito15/sistema-gerenciamento-pessoas-cpp)  
   Backend system for managing teachers and students.
 
-- [ChatApp in Java](https://github.com/maria-brito15/chatApp_java)  
+- [**ChatApp - Java**](https://github.com/maria-brito15/chatApp_java)  
   First Java project: a multi-user chat using TCP sockets and multithreading for real-time communication.
 
 - [**Movie Catalog Website**](https://github.com/maria-brito15/catalogo-filmes)  

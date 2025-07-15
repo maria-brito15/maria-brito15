@@ -44,7 +44,7 @@
 ## 🛠️ Projects
 
 - [**FinanceApp - FullStack**](https://github.com/maria-brito15/FinanceApp/)  
-  FinanceApp is a fullstack personal finance app using Spring Boot, Node.js, and React, with secure auth and transaction management.  
+  FinanceApp is a fullstack personal finance app using Spring Boot and React, with secure auth and transaction management.  
   
 - [**Inventory Management - FullStack**](https://github.com/maria-brito15/InventoryManager/)  
   A full-stack inventory management system for products with CRUD operations, real-time search, and a responsive interface.

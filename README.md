@@ -5,8 +5,8 @@
   <tr>
     <td>
       <p><i>i need coffee ☕</i></p>
-      <p>🎓 <b>Computer Science Student</b><br/>
-         🔥 Backend Enthusiast<br/>
+      <p>🎓 <b>2nd Semester | Computer Science Student</b><br/>
+         🔥 Full-Stack / Back-End Enthusiast<br/>
          🎬 Passionate about cinema, arts, and music
       </p>
       <p>📄 Other Versions: <a href="README_pt.md">Portuguese</a></p>
@@ -36,29 +36,34 @@
 
 ## 🚀 Tech Stack
 
-- **Languages:** (Learning Java) C++, C, JavaScript, HTML, CSS, SASS
-- **Runtimes & Tools:** Node.js, Bootstrap, Git, GitHub
+### 🎨 Frontend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/>
+
+### 🛠️ Backend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" title="Spring Boot"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
+### 🛢️ Database  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
 
 ---
 
-## 🛠️ Projects
+## 🖥️ Projects
 
-- [**FinanceApp - FullStack**](https://github.com/maria-brito15/FinanceApp/)  
+- [**FINANCE TRACKING APPLICATION**](https://github.com/maria-brito15/FinanceApp/)  
   FinanceApp is a fullstack personal finance app using Spring Boot and React, with secure auth and transaction management.  
   
-- [**Inventory Management - FullStack**](https://github.com/maria-brito15/InventoryManager/)  
+- [**INVENTORY MANAGEMENT SYSTEM**](https://github.com/maria-brito15/InventoryManager/)  
   A full-stack inventory management system for products with CRUD operations, real-time search, and a responsive interface.
 
-- [**Planoriza | Gerenciamento de Tarefas**](https://www.linkedin.com/feed/update/urn:li:activity:7342233271881113600/)  
+- [**PLANORIZA | GERENCIAAMENTO DE TAREFAS**](https://www.linkedin.com/feed/update/urn:li:activity:7342233271881113600/)  
   Productivity and time management for students—helping you stay on top of your goals!
 
-- [**People Management System - C++**](https://github.com/maria-brito15/sistema-gerenciamento-pessoas-cpp)  
+- [**PEOPLE MANAGEMENT SYSTEM**](https://github.com/maria-brito15/sistema-gerenciamento-pessoas-cpp)  
   Backend system for managing teachers and students.
 
-- [**ChatApp - Java**](https://github.com/maria-brito15/chatApp_java)  
+- [**JAVA TERMINAL CHATAPP**](https://github.com/maria-brito15/chatApp_java)  
   First Java project: a multi-user chat using TCP sockets and multithreading for real-time communication.
 
-- [**Movie Catalog Website**](https://github.com/maria-brito15/catalogo-filmes)  
+- [**MOVIE CATALOG WEBSITE**](https://github.com/maria-brito15/catalogo-filmes)  
   Fully functional website (runs locally) that displays detailed information about movies using the TMDb API.
 
 ---

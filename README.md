@@ -37,10 +37,23 @@
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/>
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/>
+</div>
 
 ### 🛠️ Backend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" title="Spring Boot"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP"/>
+</div>
+
 ### 🛢️ Database  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
 
@@ -54,14 +67,14 @@
 - [**INVENTORY MANAGEMENT SYSTEM**](https://github.com/maria-brito15/InventoryManager/)  
   A full-stack inventory management system for products with CRUD operations, real-time search, and a responsive interface.
 
-- [**PLANORIZA | GERENCIAAMENTO DE TAREFAS**](https://www.linkedin.com/feed/update/urn:li:activity:7342233271881113600/)  
-  Productivity and time management for students—helping you stay on top of your goals!
+- [**WATER REMINDER APP**](https://github.com/maria-brito15/water-reminder-php/)  
+  Water Reminder is a web app, made with PHP, that helps you track your hydration by reminding you to drink water at optimal times for a healthy routine.
 
 - [**PEOPLE MANAGEMENT SYSTEM**](https://github.com/maria-brito15/sistema-gerenciamento-pessoas-cpp)  
   Backend system for managing teachers and students.
 
-- [**JAVA TERMINAL CHATAPP**](https://github.com/maria-brito15/chatApp_java)  
-  First Java project: a multi-user chat using TCP sockets and multithreading for real-time communication.
+- [**PLANORIZA | GERENCIAAMENTO DE TAREFAS**](https://www.linkedin.com/feed/update/urn:li:activity:7342233271881113600/)  
+  Productivity and time management for students—helping you stay on top of your goals!
 
 - [**MOVIE CATALOG WEBSITE**](https://github.com/maria-brito15/catalogo-filmes)  
   Fully functional website (runs locally) that displays detailed information about movies using the TMDb API.

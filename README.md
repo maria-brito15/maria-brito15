@@ -75,12 +75,6 @@
 - [**PEOPLE MANAGEMENT SYSTEM**](https://github.com/maria-brito15/sistema-gerenciamento-pessoas-cpp)  
   Backend system for managing teachers and students.
 
-- [**PLANORIZA | GERENCIAAMENTO DE TAREFAS**](https://www.linkedin.com/feed/update/urn:li:activity:7342233271881113600/)  
-  Productivity and time management for students—helping you stay on top of your goals!
-
-- [**MOVIE CATALOG WEBSITE**](https://github.com/maria-brito15/catalogo-filmes)  
-  Fully functional website (runs locally) that displays detailed information about movies using the TMDb API.
-
 ---
 
 ## 🌎 Connect With Me

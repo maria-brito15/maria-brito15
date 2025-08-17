@@ -72,14 +72,8 @@
 - [**WATER REMINDER APP**](https://github.com/maria-brito15/water-reminder-php/)  
   Water Reminder é um app web, desenvolvido com PHP, que ajuda você a monitorar sua hidratação, lembrando de beber água nos horários ideais para manter uma rotina saudável.
 
-- [**PLANORIZA | GERENCIAMENTO DE TAREFAS**](https://www.linkedin.com/feed/update/urn:li:activity:7342233271881113600/)  
-  Produtividade e organização do tempo para estudantes — ajudando você a alcançar seus objetivos!
-
 - [**SISTEMA DE GERENCIAMENTO ESCOLAR**](https://github.com/maria-brito15/sistema-gerenciamento-pessoas-cpp)  
   Sistema backend para gerenciamento de professores e alunos.
-
-- [**SITE DE CATÁLOGO DE FILMES**](https://github.com/maria-brito15/catalogo-filmes)  
-  Website totalmente funcional (roda localmente) que exibe informações detalhadas sobre filmes usando a API TMDb.
 
 ---
 

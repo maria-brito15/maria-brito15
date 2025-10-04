@@ -66,7 +66,7 @@
 
 ## 🖥️ Projects
 
-- [TUTORIA — AI-POWERED STUDY ASSISTANT](https://github.com/maria-brito15/TutorIA)
+- [**TUTORIA — AI-POWERED STUDY ASSISTANT**](https://github.com/maria-brito15/TutorIA)  
   Educational web application with AI to create summaries, quizzes, flashcards, and answer questions from texts or PDFs for students.
 
 - [**FINANCE TRACKING APPLICATION**](https://github.com/maria-brito15/FinanceApp/)  

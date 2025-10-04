@@ -66,6 +66,9 @@
 
 ## 🖥️ Projects
 
+- [TUTORIA — AI-POWERED STUDY ASSISTANT](https://github.com/maria-brito15/TutorIA)
+  Educational web application with AI to create summaries, quizzes, flashcards, and answer questions from texts or PDFs for students.
+
 - [**FINANCE TRACKING APPLICATION**](https://github.com/maria-brito15/FinanceApp/)  
   FinanceApp is a fullstack personal finance app using Spring Boot and React, with secure auth and transaction management.  
   
@@ -74,9 +77,6 @@
 
 - [**WATER REMINDER APP**](https://github.com/maria-brito15/water-reminder-php/)  
   Water Reminder is a web app, made with PHP, that helps you track your hydration by reminding you to drink water at optimal times for a healthy routine.
-
-- [**PEOPLE MANAGEMENT SYSTEM**](https://github.com/maria-brito15/sistema-gerenciamento-pessoas-cpp)  
-  Backend system for managing teachers and students.
 
 ---
 

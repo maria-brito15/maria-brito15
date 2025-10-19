@@ -19,18 +19,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-brito15&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="285px" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-brito15&theme=radical&hide_border=true" alt="GitHub Streak" width="400px" />
-    </td>
-  </tr>
-</table>
+## 📚 Table of Contents
+- [🚀 Tech Stack](#-tech-stack)
+- [💼 Real Projects (w/ Private Code)](#-real-projects-with-private-code)
+- [🎓 University Projects](#-university-projects)
+- [💡 Personal Projects (w/ Public Code)](#-personal-projects-public-code)
+- [💬 Connect With Me](#-connect-with-me)
 
 ---
 
@@ -64,7 +58,7 @@
 
 ---
 
-## 🌟 Real Projects with Private Code
+## 💼 Real Projects with Private Code
 
 ### 📚 BECAS | Study Room *(in Development)*
 A collaborative platform designed by students, for students. BECAS democratizes access to quality study materials by connecting content creators with learners in the academic community.
@@ -81,7 +75,7 @@ A collaborative platform designed by students, for students. BECAS democratizes 
 - 📤 File upload system with validation,
 - 🛡️ Input validation and security middleware,
 - 📊 Database connection pooling with PostgreSQL,
-- 🔧 Modular utility system.
+- 🔧 Modular utility system and layered architecture.
 
 **Mission:** Facilitate access to high-quality educational resources and build a collaborative learning community that empowers students to achieve academic excellence.
 
@@ -89,8 +83,10 @@ A collaborative platform designed by students, for students. BECAS democratizes 
 
 ---
 
+## 🎓 University Projects
+
 ### 🌱 EcoShop — Sustainable Products Catalog *(in Development)*
-An innovative web platform dedicated to discovering and cataloging eco-friendly and sustainable products. EcoShop combines technology, conscious consumption, and environmental responsibility.
+An innovative web platform developed for a university project, dedicated to discovering and cataloging eco-friendly and sustainable products. EcoShop combines technology, conscious consumption, and environmental responsibility.
 
 **Key Features:**
 - 🌿 Exclusive catalog of verified sustainable products,
@@ -98,7 +94,6 @@ An innovative web platform dedicated to discovering and cataloging eco-friendly 
 - 📊 Transparent information about environmental impact,
 - 📚 Integrated educational section with sustainability guides,
 - 🎓 Articles and videos promoting environmental awareness,
-- 🤝 Partnership system with eco-certified brands.
 
 **Mission:** Democratize access to sustainable products, educate consumers about eco-friendly alternatives, and promote transparency in the green market.
 
@@ -108,60 +103,62 @@ An innovative web platform dedicated to discovering and cataloging eco-friendly 
 
 ---
 
-## 🌟 Featured Projects with Code Available
-
-### 🤖 [TutorIA — AI-Powered Study Assistant](https://github.com/maria-brito15/TutorIA)
-AI-based educational web app that creates summaries, quizzes, and flashcards from uploaded texts or PDFs. Leverages artificial intelligence to personalize the learning experience and optimize study sessions.
-
-**Features:**
-- 📄 PDF and text file processing,
-- 🧠 Automatic summary generation,
-- ✅ Custom quiz creation,
-- 🎴 Interactive flashcard system,
-- 🎨 Intuitive and responsive interface.
-
-**Tech Stack:** Gemini API, Java, Spark Framework, PostgreSQL, BCrypt, HTML5, CSS3, JavaScript, JWT Authentication.
-
----
+## 💡 Personal Projects (Public Code)
 
 ### 💰 [FinanceApp — Personal Finance Manager](https://github.com/maria-brito15/FinanceApp/)
+
 Full-stack finance management system built with Spring Boot and React, featuring secure authentication and transaction control.
 
 **Features:**
-- 🔐 Secure user authentication (JWT),
-- 💳 Complete transaction management (income/expenses),
-- 📊 Financial reports and balance tracking,
-- 🎯 Expense categorization,
-- 📱 Responsive interface with modern design,
-- 🛡️ Data validation and security.
+
+* 🔐 Secure user authentication (JWT),
+* 💳 Complete transaction management (income/expenses),
+* 📊 Financial reports and balance tracking,
+* 🎯 Expense categorization,
+* 📱 Responsive interface with modern design,
+* 🛡️ Data validation and security.
 
 **Tech Stack:** Spring Boot, React, PostgreSQL, JWT Authentication.
 
----
+### 🤖 [TutorIA — AI-Powered Study Assistant](https://github.com/maria-brito15/TutorIA)
+
+AI-based educational web app that creates summaries, quizzes, and flashcards from uploaded texts or PDFs. Leverages artificial intelligence to personalize the learning experience and optimize study sessions.
+
+**Features:**
+
+* 📄 PDF and text file processing,
+* 🧠 Automatic summary generation,
+* ✅ Custom quiz creation,
+* 🎴 Interactive flashcard system,
+* 🎨 Intuitive and responsive interface.
+
+**Tech Stack:** Gemini API, Java, Spark Framework, PostgreSQL, BCrypt, HTML5, CSS3, JavaScript, JWT Authentication.
 
 ### 📦 [InventoryManager — Product Control System](https://github.com/maria-brito15/InventoryManager/)
+
 CRUD-based inventory management app with real-time search, responsive design, and animated modals.
 
 **Features:**
-- ➕ Complete CRUD operations for products,
-- 🔍 Real-time search functionality,
-- 🎨 Modern UI with smooth animations,
-- 📱 Fully responsive design,
-- ⚡ Dynamic data updates without page reload.
 
-**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap.
+* ➕ Complete CRUD operations for products,
+* 🔍 Real-time search functionality,
+* 🎨 Modern UI with smooth animations,
+* 📱 Fully responsive design,
+* ⚡ Dynamic data updates without page reload.
 
----
+**Tech Stack:** SpringBoot, HTML5, CSS3, JavaScript, Bootstrap.
 
 ### 💧 [Water Reminder — PHP App](https://github.com/maria-brito15/water-reminder-php/)
+
 Hydration tracker with automatic reminders, daily streaks, and responsive design — built in PHP.
 
 **Features:**
-- ⏰ Customizable hydration reminders,
-- 📈 Daily water intake tracking,
-- 🔥 Streak system to maintain consistency,
-- 📊 Progress visualization,
-- 🎨 Clean and intuitive interface.
+
+* ⏰ Customizable hydration reminders,
+* 📈 Daily water intake tracking,
+* 🔥 Streak system to maintain consistency,
+* 📊 Progress visualization,
+* 🎨 Clean and intuitive interface.
 
 **Tech Stack:** PHP, HTML5, CSS3, JavaScript.
 

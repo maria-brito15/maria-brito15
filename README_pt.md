@@ -87,8 +87,6 @@ Uma plataforma colaborativa criada por estudantes, para estudantes. O BECAS demo
 
 **Stack Tecnológica:** Java 21, Spark Framework, PostgreSQL, Apache PDFBox, JWT, BCrypt, Gson, JavaMail, HTML5, CSS3, JavaScript, JUnit 5, Mockito
 
----
-
 ### 🌱 EcoShop — Catálogo de Produtos Sustentáveis *(em Desenvolvimento)*
 Uma plataforma web inovadora dedicada à descoberta e catalogação de produtos ecológicos e sustentáveis. O EcoShop combina tecnologia, consumo consciente e responsabilidade ambiental.
 
@@ -121,8 +119,6 @@ Aplicação web educacional baseada em IA que cria resumos, questionários e fla
 
 **Stack Tecnológica:** Gemini API, Java, Spark Framework, PostgreSQL, BCrypt, HTML5, CSS3, JavaScript, Autenticação JWT.
 
----
-
 ### 💰 [FinanceApp — Gerenciador de Finanças Pessoais](https://github.com/maria-brito15/FinanceApp/)
 Sistema full-stack de gerenciamento financeiro construído com Spring Boot e React, com autenticação segura e controle de transações.
 
@@ -136,8 +132,6 @@ Sistema full-stack de gerenciamento financeiro construído com Spring Boot e Rea
 
 **Stack Tecnológica:** Spring Boot, React, PostgreSQL, Autenticação JWT.
 
----
-
 ### 📦 [InventoryManager — Sistema de Controle de Produtos](https://github.com/maria-brito15/InventoryManager/)
 Aplicação de gerenciamento de estoque baseada em CRUD com busca em tempo real, design responsivo e modais animados.
 
@@ -149,8 +143,6 @@ Aplicação de gerenciamento de estoque baseada em CRUD com busca em tempo real,
 - ⚡ Atualizações dinâmicas de dados sem recarregar a página.
 
 **Stack Tecnológica:** HTML5, CSS3, JavaScript, Bootstrap.
-
----
 
 ### 💧 [Water Reminder — Aplicação PHP](https://github.com/maria-brito15/water-reminder-php/)
 Rastreador de hidratação com lembretes automáticos, sequências diárias e design responsivo — construído em PHP.

@@ -98,7 +98,6 @@ Uma plataforma web inovadora dedicada à descoberta e catalogação de produtos 
 - 📊 Informações transparentes sobre impacto ambiental,
 - 📚 Seção educativa integrada com guias de sustentabilidade,
 - 🎓 Artigos e vídeos promovendo conscientização ambiental,
-- 🤝 Sistema de parcerias com marcas eco-certificadas.
 
 **Missão:** Democratizar o acesso a produtos sustentáveis, educar consumidores sobre alternativas ecológicas e promover transparência no mercado verde.
 

@@ -85,7 +85,7 @@ A collaborative platform designed by students, for students. BECAS democratizes 
 
 ## 🎓 University Projects
 
-### 🌱 EcoShop — Sustainable Products Catalog *(in Development)*
+### 🌱 EcoShop — Sustainable Products Catalog
 An innovative web platform developed for a university project, dedicated to discovering and cataloging eco-friendly and sustainable products. EcoShop combines technology, conscious consumption, and environmental responsibility.
 
 **Key Features:**
@@ -98,6 +98,8 @@ An innovative web platform developed for a university project, dedicated to disc
 **Mission:** Democratize access to sustainable products, educate consumers about eco-friendly alternatives, and promote transparency in the green market.
 
 **Impact:** Contributes to UN SDG 13 (Climate Action) and SDG 15 (Life on Land) by encouraging conscious consumption practices that reduce environmental impact and preserve ecosystems.
+
+**Artificial Intelligence:** The platform integrates an AI trained using Azure Custom Vision capable of identifying the materials of items from images. Based on this identification, the system generates an automated sustainability analysis using the Gemini API, providing an assessment of circularity, material impact, and recommendations for more sustainable alternatives.
 
 **Tech Stack:** Java, Spark Framework, PostgreSQL, BCrypt, HTML5, CSS3, JavaScript
 

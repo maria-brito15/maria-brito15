@@ -4,7 +4,7 @@
   <tr>
     <td>
       <p><i>☕ fueled by coffee</i></p>
-      <p>🎓 <b>2nd Semester | Computer Science Student</b><br/>
+      <p>🎓 <b>2nd Semester Computer Science Student</b><br/>
          💡 Passionate about <b>Backend Development.</b><br/>
          🌱 Always exploring emerging technologies.<br/>
          🎬 Lover of cinema, arts & music.
@@ -16,6 +16,11 @@
     </td>
   </tr>
 </table>
+
+### Web Development Services
+If you need a fast, modern and fully customized website or system, I also provide professional web development services focused on clean architecture, performance, and solid backend solutions.  
+
+👉 **Details:** https://maria-brito15.github.io/desenvolvimento-web/
 
 ---
 

@@ -24,15 +24,6 @@ Se você precisa de um site ou sistema rápido, moderno e totalmente personaliza
 
 ---
 
-## 📚 Índice
-- [🚀 Stack de Tecnologias](#-stack-de-tecnologias)
-- [💼 Projetos Reais (com Código Privado)](#-projetos-reais-com-código-privado)
-- [🎓 Projetos Universitários](#-projetos-universitários)
-- [💡 Projetos Pessoais (com Código Público)](#-projetos-pessoais-código-público)
-- [💬 Conecte-se Comigo](#-conecte-se-comigo)
-
----
-
 ## 🚀 Stack de Tecnologias
 
 ### 🎨 Frontend  
@@ -66,32 +57,30 @@ Se você precisa de um site ou sistema rápido, moderno e totalmente personaliza
 
 ---
 
-## 💼 Projetos Reais com Código Privado
+## 💼 Projetos & Experiência em Desenvolvimento de Software
 
 ### 📚 BECAS | Sala de Estudos *(em Desenvolvimento)*
 Uma plataforma colaborativa projetada por estudantes, para estudantes. BECAS democratiza o acesso a materiais de estudo de qualidade conectando criadores de conteúdo com aprendizes na comunidade acadêmica.
 
 **Principais Funcionalidades:**
+- 🔁 Integração com Webhooks da Hotmart para validar compras, liberar acesso a conteúdos e gerenciar eventos como pagamentos e cancelamentos.
 - 🔍 Sistema avançado de busca por materiais de estudo, resumos e exercícios,
 - 📂 Catálogo organizado de conteúdo universitário por disciplina e curso,
 - 👥 Comunidade impulsionada por estudantes focada no sucesso acadêmico,
-- 🎯 Abordagem focada em qualidade com materiais revisados,
-- 📄 Capacidades de processamento de PDF e texto,
-- 🔐 Autenticação segura com tokens JWT e criptografia BCrypt,
-- 📧 Sistema de notificação por e-mail com templates personalizados,
-- 🌐 Arquitetura de API RESTful com limitação de taxa,
-- 📤 Sistema de upload de arquivos com validação,
+- 🎯 Abordagem focada em qualidade com materiais revisados, - 📄 Capacidades de processamento de PDF e texto,
+- 🔐 Autenticação segura com tokens JWT e criptografia BCrypt, - 📧 Sistema de notificação por e-mail com templates personalizados,
+- 🌐 Arquitetura de API RESTful com limitação de taxa, - 📤 Sistema de upload de arquivos com validação,
 - 🛡️ Validação de entrada e middleware de segurança,
 - 📊 Pool de conexões de banco de dados com PostgreSQL,
 - 🔧 Sistema de utilitários modular e arquitetura em camadas.
 
 **Missão:** Facilitar o acesso a recursos educacionais de alta qualidade e construir uma comunidade de aprendizado colaborativo que capacite estudantes a alcançar excelência acadêmica.
 
-**Stack de Tecnologias:** Java 21, Spark Framework, PostgreSQL, Apache PDFBox, JWT, BCrypt, Gson, JavaMail, HTML5, CSS3, JavaScript, JUnit 5, Mockito
+**Stack de Tecnologias:** Java 21, Spark Framework, PostgreSQL, Apache PDFBox, JWT, BCrypt, Gson, JavaMail, HTML5, CSS3, JavaScript
 
 ---
 
-## 🎓 Projetos Universitários
+## 🎓 Projetos Acadêmicos de Destaque
 
 ### 🌱 EcoShop — Catálogo de Produtos Sustentáveis
 Uma plataforma web inovadora desenvolvida para um projeto universitário, dedicada a descobrir e catalogar produtos ecológicos e sustentáveis. EcoShop combina tecnologia, consumo consciente e responsabilidade ambiental.
@@ -113,7 +102,7 @@ Uma plataforma web inovadora desenvolvida para um projeto universitário, dedica
 
 ---
 
-## 💡 Projetos Pessoais (Código Público)
+## 💡 Projetos Open Source
 
 ### 💰 [FinanceApp — Gerenciador de Finanças Pessoais](https://github.com/maria-brito15/FinanceApp/)
 
@@ -129,20 +118,6 @@ Sistema de gerenciamento financeiro full-stack construído com Spring Boot e Rea
 * 🛡️ Validação de dados e segurança.
 
 **Stack de Tecnologias:** Spring Boot, React, PostgreSQL, Autenticação JWT.
-
-### 🤖 [TutorIA — Assistente de Estudos com IA](https://github.com/maria-brito15/TutorIA)
-
-Aplicação web educacional baseada em IA que cria resumos, questionários e flashcards a partir de textos ou PDFs carregados. Aproveita inteligência artificial para personalizar a experiência de aprendizado e otimizar sessões de estudo.
-
-**Funcionalidades:**
-
-* 📄 Processamento de arquivos PDF e texto,
-* 🧠 Geração automática de resumos,
-* ✅ Criação de questionários personalizados,
-* 🎴 Sistema interativo de flashcards,
-* 🎨 Interface intuitiva e responsiva.
-
-**Stack de Tecnologias:** API Gemini, Java, Spark Framework, PostgreSQL, BCrypt, HTML5, CSS3, JavaScript, Autenticação JWT.
 
 ### 📦 [InventoryManager — Sistema de Controle de Produtos](https://github.com/maria-brito15/InventoryManager/)
 

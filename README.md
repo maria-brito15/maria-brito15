@@ -20,7 +20,7 @@
 ### Web Development Services
 If you need a fast, modern and fully customized website or system, I also provide professional web development services focused on clean architecture, performance, and solid backend solutions.  
 
-👉 **Details:** https://maria-brito15.github.io/desenvolvimento-web/index-en.html
+👉 **Details:** [https://maria-brito15.github.io/web-development/](https://maria-brito15.github.io/desenvolvimento-web/index-en.html)
 
 ---
 
@@ -42,6 +42,7 @@ If you need a fast, modern and fully customized website or system, I also provid
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
 </div>
 
 ### 🛠️ Backend  
@@ -53,12 +54,14 @@ If you need a fast, modern and fully customized website or system, I also provid
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
   <img src="https://sparkjava.com/img/logo.svg" width="40" title="Spark Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" title="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
 </div>
 
 ### 🛢️ Database  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
 </div>
 
 ---

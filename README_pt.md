@@ -5,7 +5,7 @@
     <td>
       <p><i>☕ movida a café</i></p>
       <p>🎓 <b>Estudante de Ciência da Computação - 2º Semestre</b><br/>
-         💡 Apaixonada por <b>Desenvolvimento Backend.</b><br/>
+         💡 Apaixonada por <b>Desenvolvimento Full-Stack</b><br/>
          🌱 Sempre explorando tecnologias emergentes.<br/>
          🎬 Amante de cinema, artes e música.
       </p>

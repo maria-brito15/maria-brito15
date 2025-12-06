@@ -5,7 +5,7 @@
     <td>
       <p><i>☕ fueled by coffee</i></p>
       <p>🎓 <b>2nd Semester Computer Science Student</b><br/>
-         💡 Passionate about <b>Backend Development.</b><br/>
+         💡 Passionate about <b>Full-Stack Development.</b><br/>
          🌱 Always exploring emerging technologies.<br/>
          🎬 Lover of cinema, arts & music.
       </p>

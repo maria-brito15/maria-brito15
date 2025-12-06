@@ -4,7 +4,7 @@
   <tr>
     <td>
       <p><i>☕ movida a café</i></p>
-      <p>🎓 <b>Estudante de Ciência da Computação - 2º Semestre</b><br/>
+      <p>🎓 <b>Estudante de Ciência da Computação</b><br/>
          💡 Apaixonada por <b>Desenvolvimento Full-Stack</b><br/>
          🌱 Sempre explorando tecnologias emergentes.<br/>
          🎬 Amante de cinema, artes e música.
@@ -42,6 +42,7 @@ Se você precisa de um site ou sistema rápido, moderno e totalmente personaliza
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
 </div>
 
 ### 🛠️ Backend  
@@ -53,12 +54,14 @@ Se você precisa de um site ou sistema rápido, moderno e totalmente personaliza
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
   <img src="https://sparkjava.com/img/logo.svg" width="40" title="Spark Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" title="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
 </div>
 
 ### 🛢️ Banco de Dados  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
 </div>
 
 ---

@@ -9,7 +9,7 @@
          🌱 Sempre explorando tecnologias emergentes.<br/>
          🎬 Amante de cinema, artes e música.
       </p>
-      <p>🌐 <b>Outras Versões:</b> <a href="README_pt.md">Português</a></p>
+      <p>🌐 <b>Outras Versões:</b> <a href="README.md">English</a></p>
     </td>
     <td>
       <img src="https://media.tenor.com/KuCmU3O8vQUAAAAj/snoopy.gif" alt="Snoopy Coffee GIF" width="150px" />

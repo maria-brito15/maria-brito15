@@ -4,8 +4,8 @@
   <tr>
     <td>
       <p><i>☕ fueled by coffee</i></p>
-      <p>🎓 <b>2nd Semester Computer Science Student</b><br/>
-         💡 Passionate about <b>Full-Stack Development.</b><br/>
+      <p>🎓 <b>Computer Science Student</b><br/>
+         💡 Passionate about <b>Full-Stack Development</b><br/>
          🌱 Always exploring emerging technologies.<br/>
          🎬 Lover of cinema, arts & music.
       </p>
@@ -18,18 +18,9 @@
 </table>
 
 ### Web Development Services
-If you need a fast, modern and fully customized website or system, I also provide professional web development services focused on clean architecture, performance, and solid backend solutions.  
+If you need a fast, modern, and fully customized website or system, I also provide professional web development services focused on clean architecture, performance, and solid backend solutions.
 
-👉 **Details:** [https://maria-brito15.github.io/web-development/](https://maria-brito15.github.io/desenvolvimento-web/index-en.html)
-
----
-
-## 📚 Table of Contents
-- [🚀 Tech Stack](#-tech-stack)
-- [💼 Real Projects (w/ Private Code)](#-real-projects-with-private-code)
-- [🎓 University Projects](#-university-projects)
-- [💡 Personal Projects (w/ Public Code)](#-personal-projects-public-code)
-- [💬 Connect With Me](#-connect-with-me)
+👉 **Details:** https://maria-brito15.github.io/desenvolvimento-web/
 
 ---
 
@@ -66,16 +57,17 @@ If you need a fast, modern and fully customized website or system, I also provid
 
 ---
 
-## 💼 Real Projects with Private Code
+## 💼 Projects & Software Development Experience
 
 ### 📚 BECAS | Study Room *(in Development)*
 A collaborative platform designed by students, for students. BECAS democratizes access to quality study materials by connecting content creators with learners in the academic community.
 
 **Key Features:**
+- 🔁 Integration with Hotmart Webhooks to validate purchases, release access to content, and manage events such as payments and cancellations.
 - 🔍 Advanced search system for study materials, summaries, and exercises,
 - 📂 Organized catalog of university content by subject and course,
 - 👥 Student-driven community focused on academic success,
-- 🎯 Quality-first approach with reviewed materials,
+- 🎯 Quality-focused approach with reviewed materials,
 - 📄 PDF processing and text processing capabilities,
 - 🔐 Secure authentication with JWT tokens and BCrypt encryption,
 - 📧 Email notification system with custom templates,
@@ -87,11 +79,11 @@ A collaborative platform designed by students, for students. BECAS democratizes 
 
 **Mission:** Facilitate access to high-quality educational resources and build a collaborative learning community that empowers students to achieve academic excellence.
 
-**Tech Stack:** Java 21, Spark Framework, PostgreSQL, Apache PDFBox, JWT, BCrypt, Gson, JavaMail, HTML5, CSS3, JavaScript, JUnit 5, Mockito
+**Tech Stack:** Java 21, Spark Framework, PostgreSQL, Apache PDFBox, JWT, BCrypt, Gson, JavaMail, HTML5, CSS3, JavaScript
 
 ---
 
-## 🎓 University Projects
+## 🎓 Featured Academic Projects
 
 ### 🌱 EcoShop — Sustainable Products Catalog
 An innovative web platform developed for a university project, dedicated to discovering and cataloging eco-friendly and sustainable products. EcoShop combines technology, conscious consumption, and environmental responsibility.
@@ -113,7 +105,7 @@ An innovative web platform developed for a university project, dedicated to disc
 
 ---
 
-## 💡 Personal Projects (Public Code)
+## 💡 Open Source Projects
 
 ### 💰 [FinanceApp — Personal Finance Manager](https://github.com/maria-brito15/FinanceApp/)
 
@@ -129,20 +121,6 @@ Full-stack finance management system built with Spring Boot and React, featuring
 * 🛡️ Data validation and security.
 
 **Tech Stack:** Spring Boot, React, PostgreSQL, JWT Authentication.
-
-### 🤖 [TutorIA — AI-Powered Study Assistant](https://github.com/maria-brito15/TutorIA)
-
-AI-based educational web app that creates summaries, quizzes, and flashcards from uploaded texts or PDFs. Leverages artificial intelligence to personalize the learning experience and optimize study sessions.
-
-**Features:**
-
-* 📄 PDF and text file processing,
-* 🧠 Automatic summary generation,
-* ✅ Custom quiz creation,
-* 🎴 Interactive flashcard system,
-* 🎨 Intuitive and responsive interface.
-
-**Tech Stack:** Gemini API, Java, Spark Framework, PostgreSQL, BCrypt, HTML5, CSS3, JavaScript, JWT Authentication.
 
 ### 📦 [InventoryManager — Product Control System](https://github.com/maria-brito15/InventoryManager/)
 

@@ -17,11 +17,6 @@
   </tr>
 </table>
 
-### Web Development Services
-If you need a fast, modern, and fully customized website or system, I also provide professional web development services focused on clean architecture, performance, and solid backend solutions.
-
-👉 **Details:** [https://maria-brito15.github.io/web-development/](https://maria-brito15.github.io/desenvolvimento-web/index-en.html)
-
 ---
 
 ## 🚀 Tech Stack
@@ -165,8 +160,7 @@ Hydration tracker with automatic reminders, daily streaks, and responsive design
 
 ---
 
-> 💭 *"Talk less, code more!" — Hamilton*  
-> 🌱 *Always prone to learning something new.*
+> 💭 *"Talk less, code more!" — Hamilton*
 
 ---
 

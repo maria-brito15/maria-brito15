@@ -17,11 +17,6 @@
   </tr>
 </table>
 
-### Serviços de Desenvolvimento Web
-Se você precisa de um site ou sistema rápido, moderno e totalmente personalizado, também ofereço serviços profissionais de desenvolvimento web focados em arquitetura limpa, performance e soluções backend sólidas.
-
-👉 **Detalhes:** https://maria-brito15.github.io/desenvolvimento-web/
-
 ---
 
 ## 🚀 Stack de Tecnologias

@@ -1,4 +1,4 @@
-# 👋 Ei, eu sou a Duda!
+# 👋 Oi, eu sou a Duda!
 
 <table>
   <tr>
@@ -9,7 +9,7 @@
          🌱 Sempre explorando tecnologias emergentes.<br/>
          🎬 Amante de cinema, artes e música.
       </p>
-      <p>🌐 <b>Outras Versões:</b> <a href="README.md">English</a></p>
+      <p>🌐 <b>Outras Versões:</b> <a href="README.md">Inglês</a></p>
     </td>
     <td>
       <img src="https://media.tenor.com/KuCmU3O8vQUAAAAj/snoopy.gif" alt="Snoopy Coffee GIF" width="150px" />
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Stack de Tecnologias
+## 🚀 Stack Tecnológico
 
 ### 🎨 Frontend  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -50,98 +50,32 @@
 
 ---
 
-## 💼 Projetos & Experiência em Desenvolvimento de Software
+## 💼 Projetos em Destaque
 
-### 📚 BECAS | Sala de Estudos *(em Desenvolvimento)*
-Uma plataforma colaborativa projetada por estudantes, para estudantes. BECAS democratiza o acesso a materiais de estudo de qualidade conectando criadores de conteúdo com aprendizes na comunidade acadêmica.
+### 📚 BECAS | Sala de Estudos *(Aguardando Lançamento)*
+Plataforma colaborativa conectando estudantes com materiais de estudo de qualidade. Recursos incluem integração com webhooks da Hotmart, busca avançada, processamento de PDF, autenticação JWT e notificações por e-mail.
 
-**Principais Funcionalidades:**
-- 🔁 Integração com Webhooks da Hotmart para validar compras, liberar acesso a conteúdos e gerenciar eventos como pagamentos e cancelamentos.
-- 🔍 Sistema avançado de busca por materiais de estudo, resumos e exercícios,
-- 📂 Catálogo organizado de conteúdo universitário por disciplina e curso,
-- 👥 Comunidade impulsionada por estudantes focada no sucesso acadêmico,
-- 🎯 Abordagem focada em qualidade com materiais revisados,
-- 📄 Capacidades de processamento de PDF e texto,
-- 🔐 Autenticação segura com tokens JWT e criptografia BCrypt,
-- 📧 Sistema de notificação por e-mail com templates personalizados,
-- 🌐 Arquitetura de API RESTful com limitação de taxa,
-- 📤 Sistema de upload de arquivos com validação,
-- 🛡️ Validação de entrada e middleware de segurança,
-- 📊 Pool de conexões de banco de dados com PostgreSQL,
-- 🔧 Sistema de utilitários modular e arquitetura em camadas.
-
-**Missão:** Facilitar o acesso a recursos educacionais de alta qualidade e construir uma comunidade de aprendizado colaborativo que capacite estudantes a alcançar excelência acadêmica.
-
-**Stack de Tecnologias:** Java 21, Spark Framework, PostgreSQL, Apache PDFBox, JWT, BCrypt, Gson, JavaMail, HTML5, CSS3, JavaScript
-
----
-
-## 🎓 Projetos Acadêmicos de Destaque
+**Stack Tecnológico:** Java 21, Spark Framework, PostgreSQL, Apache PDFBox, JWT
 
 ### 🌱 EcoShop — Catálogo de Produtos Sustentáveis
-Uma plataforma web inovadora desenvolvida para um projeto universitário, dedicada a descobrir e catalogar produtos ecológicos e sustentáveis. EcoShop combina tecnologia, consumo consciente e responsabilidade ambiental.
+Plataforma web para descobrir produtos ecológicos com identificação de materiais via IA (Azure Custom Vision) e análise de sustentabilidade (Gemini API). Inclui conteúdo educacional e links diretos para produtos sustentáveis verificados.
 
-**Principais Funcionalidades:**
-- 🌿 Catálogo exclusivo de produtos sustentáveis verificados,
-- 🔗 Redirecionamento direto para sites oficiais dos produtos,
-- 📊 Informações transparentes sobre impacto ambiental,
-- 📚 Seção educacional integrada com guias de sustentabilidade,
-- 🎓 Artigos e vídeos promovendo consciência ambiental,
+**Stack Tecnológico:** Java, Spark Framework, PostgreSQL, HTML5, CSS3, JavaScript
 
-**Missão:** Democratizar o acesso a produtos sustentáveis, educar consumidores sobre alternativas ecológicas e promover transparência no mercado verde.
+### 💰 [FinanceApp](https://github.com/maria-brito15/FinanceApp/)
+Gerenciador de finanças pessoais com autenticação segura, controle de transações, categorização de despesas e relatórios financeiros.
 
-**Impacto:** Contribui para o ODS 13 da ONU (Ação Contra a Mudança Climática) e ODS 15 (Vida Terrestre) ao incentivar práticas de consumo consciente que reduzem o impacto ambiental e preservam ecossistemas.
+**Stack Tecnológico:** Spring Boot, React, PostgreSQL, JWT
 
-**Inteligência Artificial:** A plataforma integra uma IA treinada usando Azure Custom Vision capaz de identificar os materiais de itens a partir de imagens. Com base nessa identificação, o sistema gera uma análise automatizada de sustentabilidade usando a API Gemini, fornecendo uma avaliação de circularidade, impacto do material e recomendações para alternativas mais sustentáveis.
+### 📦 [InventoryManager](https://github.com/maria-brito15/InventoryManager/)
+Sistema de controle de produtos com busca em tempo real, operações CRUD e design responsivo.
 
-**Stack de Tecnologias:** Java, Spark Framework, PostgreSQL, BCrypt, HTML5, CSS3, JavaScript
+**Stack Tecnológico:** Spring Boot, HTML5, CSS3, JavaScript, Bootstrap
 
----
+### 💧 [Water Reminder](https://github.com/maria-brito15/water-reminder-php/)
+Rastreador de hidratação com lembretes personalizáveis, sequências diárias e visualização de progresso.
 
-## 💡 Projetos Open Source
-
-### 💰 [FinanceApp — Gerenciador de Finanças Pessoais](https://github.com/maria-brito15/FinanceApp/)
-
-Sistema de gerenciamento financeiro full-stack construído com Spring Boot e React, apresentando autenticação segura e controle de transações.
-
-**Funcionalidades:**
-
-* 🔐 Autenticação segura de usuário (JWT),
-* 💳 Gerenciamento completo de transações (receitas/despesas),
-* 📊 Relatórios financeiros e acompanhamento de saldo,
-* 🎯 Categorização de despesas,
-* 📱 Interface responsiva com design moderno,
-* 🛡️ Validação de dados e segurança.
-
-**Stack de Tecnologias:** Spring Boot, React, PostgreSQL, Autenticação JWT.
-
-### 📦 [InventoryManager — Sistema de Controle de Produtos](https://github.com/maria-brito15/InventoryManager/)
-
-Aplicativo de gerenciamento de inventário baseado em CRUD com busca em tempo real, design responsivo e modais animados.
-
-**Funcionalidades:**
-
-* ➕ Operações CRUD completas para produtos,
-* 🔍 Funcionalidade de busca em tempo real,
-* 🎨 Interface moderna com animações suaves,
-* 📱 Design totalmente responsivo,
-* ⚡ Atualizações dinâmicas de dados sem recarregar a página.
-
-**Stack de Tecnologias:** SpringBoot, HTML5, CSS3, JavaScript, Bootstrap.
-
-### 💧 [Water Reminder — App em PHP](https://github.com/maria-brito15/water-reminder-php/)
-
-Rastreador de hidratação com lembretes automáticos, sequências diárias e design responsivo — construído em PHP.
-
-**Funcionalidades:**
-
-* ⏰ Lembretes de hidratação personalizáveis,
-* 📈 Acompanhamento da ingestão diária de água,
-* 🔥 Sistema de sequências para manter consistência,
-* 📊 Visualização de progresso,
-* 🎨 Interface limpa e intuitiva.
-
-**Stack de Tecnologias:** PHP, HTML5, CSS3, JavaScript.
+**Stack Tecnológico:** PHP, HTML5, CSS3, JavaScript
 
 ---
 
@@ -158,8 +92,7 @@ Rastreador de hidratação com lembretes automáticos, sequências diárias e de
 
 ---
 
-> 💭 *"Fale menos, code mais!" — Hamilton*  
-> 🌱 *Sempre propensa a aprender algo novo.*
+> 💭 *"Fale menos, programe mais!" — Hamilton*
 
 ---
 

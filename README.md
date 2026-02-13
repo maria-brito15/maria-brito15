@@ -50,98 +50,32 @@
 
 ---
 
-## 💼 Projects & Software Development Experience
+## 💼 Featured Projects
 
 ### 📚 BECAS | Study Room *(in Development)*
-A collaborative platform designed by students, for students. BECAS democratizes access to quality study materials by connecting content creators with learners in the academic community.
+A collaborative platform connecting students with quality study materials. Features Hotmart webhook integration, advanced search, PDF processing, JWT authentication, and email notifications.
 
-**Key Features:**
-- 🔁 Integration with Hotmart Webhooks to validate purchases, release access to content, and manage events such as payments and cancellations.
-- 🔍 Advanced search system for study materials, summaries, and exercises,
-- 📂 Organized catalog of university content by subject and course,
-- 👥 Student-driven community focused on academic success,
-- 🎯 Quality-focused approach with reviewed materials,
-- 📄 PDF processing and text processing capabilities,
-- 🔐 Secure authentication with JWT tokens and BCrypt encryption,
-- 📧 Email notification system with custom templates,
-- 🌐 RESTful API architecture with rate limiting,
-- 📤 File upload system with validation,
-- 🛡️ Input validation and security middleware,
-- 📊 Database connection pooling with PostgreSQL,
-- 🔧 Modular utility system and layered architecture.
-
-**Mission:** Facilitate access to high-quality educational resources and build a collaborative learning community that empowers students to achieve academic excellence.
-
-**Tech Stack:** Java 21, Spark Framework, PostgreSQL, Apache PDFBox, JWT, BCrypt, Gson, JavaMail, HTML5, CSS3, JavaScript
-
----
-
-## 🎓 Featured Academic Projects
+**Tech Stack:** Java 21, Spark Framework, PostgreSQL, Apache PDFBox, JWT
 
 ### 🌱 EcoShop — Sustainable Products Catalog
-An innovative web platform developed for a university project, dedicated to discovering and cataloging eco-friendly and sustainable products. EcoShop combines technology, conscious consumption, and environmental responsibility.
+Web platform for discovering eco-friendly products with AI-powered material identification (Azure Custom Vision) and sustainability analysis (Gemini API). Includes educational content and direct links to verified sustainable products.
 
-**Key Features:**
-- 🌿 Exclusive catalog of verified sustainable products,
-- 🔗 Direct redirection to official product websites,
-- 📊 Transparent information about environmental impact,
-- 📚 Integrated educational section with sustainability guides,
-- 🎓 Articles and videos promoting environmental awareness,
+**Tech Stack:** Java, Spark Framework, PostgreSQL, HTML5, CSS3, JavaScript
 
-**Mission:** Democratize access to sustainable products, educate consumers about eco-friendly alternatives, and promote transparency in the green market.
+### 💰 [FinanceApp](https://github.com/maria-brito15/FinanceApp/)
+Personal finance manager with secure authentication, transaction control, expense categorization, and financial reports.
 
-**Impact:** Contributes to UN SDG 13 (Climate Action) and SDG 15 (Life on Land) by encouraging conscious consumption practices that reduce environmental impact and preserve ecosystems.
+**Tech Stack:** Spring Boot, React, PostgreSQL, JWT
 
-**Artificial Intelligence:** The platform integrates an AI trained using Azure Custom Vision capable of identifying the materials of items from images. Based on this identification, the system generates an automated sustainability analysis using the Gemini API, providing an assessment of circularity, material impact, and recommendations for more sustainable alternatives.
+### 📦 [InventoryManager](https://github.com/maria-brito15/InventoryManager/)
+Product control system with real-time search, CRUD operations, and responsive design.
 
-**Tech Stack:** Java, Spark Framework, PostgreSQL, BCrypt, HTML5, CSS3, JavaScript
+**Tech Stack:** Spring Boot, HTML5, CSS3, JavaScript, Bootstrap
 
----
+### 💧 [Water Reminder](https://github.com/maria-brito15/water-reminder-php/)
+Hydration tracker with customizable reminders, daily streaks, and progress visualization.
 
-## 💡 Open Source Projects
-
-### 💰 [FinanceApp — Personal Finance Manager](https://github.com/maria-brito15/FinanceApp/)
-
-Full-stack finance management system built with Spring Boot and React, featuring secure authentication and transaction control.
-
-**Features:**
-
-* 🔐 Secure user authentication (JWT),
-* 💳 Complete transaction management (income/expenses),
-* 📊 Financial reports and balance tracking,
-* 🎯 Expense categorization,
-* 📱 Responsive interface with modern design,
-* 🛡️ Data validation and security.
-
-**Tech Stack:** Spring Boot, React, PostgreSQL, JWT Authentication.
-
-### 📦 [InventoryManager — Product Control System](https://github.com/maria-brito15/InventoryManager/)
-
-CRUD-based inventory management app with real-time search, responsive design, and animated modals.
-
-**Features:**
-
-* ➕ Complete CRUD operations for products,
-* 🔍 Real-time search functionality,
-* 🎨 Modern UI with smooth animations,
-* 📱 Fully responsive design,
-* ⚡ Dynamic data updates without page reload.
-
-**Tech Stack:** SpringBoot, HTML5, CSS3, JavaScript, Bootstrap.
-
-### 💧 [Water Reminder — PHP App](https://github.com/maria-brito15/water-reminder-php/)
-
-Hydration tracker with automatic reminders, daily streaks, and responsive design — built in PHP.
-
-**Features:**
-
-* ⏰ Customizable hydration reminders,
-* 📈 Daily water intake tracking,
-* 🔥 Streak system to maintain consistency,
-* 📊 Progress visualization,
-* 🎨 Clean and intuitive interface.
-
-**Tech Stack:** PHP, HTML5, CSS3, JavaScript.
+**Tech Stack:** PHP, HTML5, CSS3, JavaScript
 
 ---
 

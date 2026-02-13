@@ -1,15 +1,15 @@
-# 👋 Oi, eu sou a Duda!
+# 👋 Hey, I'm Duda!
 
 <table>
   <tr>
     <td>
-      <p><i>☕ movida a café</i></p>
-      <p>🎓 <b>Estudante de Ciência da Computação</b><br/>
-         💡 Apaixonada por <b>Desenvolvimento Full-Stack</b><br/>
-         🌱 Sempre explorando tecnologias emergentes.<br/>
-         🎬 Amante de cinema, artes e música.
+      <p><i>☕ fueled by coffee</i></p>
+      <p>🎓 <b>Computer Science Student</b><br/>
+         💡 Passionate about <b>Full-Stack Development</b><br/>
+         🌱 Always exploring emerging technologies.<br/>
+         🎬 Lover of cinema, arts & music.
       </p>
-      <p>🌐 <b>Outras Versões:</b> <a href="README.md">Inglês</a></p>
+      <p>🌐 <b>Other Versions:</b> <a href="README_pt.md">Portuguese</a></p>
     </td>
     <td>
       <img src="https://media.tenor.com/KuCmU3O8vQUAAAAj/snoopy.gif" alt="Snoopy Coffee GIF" width="150px" />
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Stack Tecnológico
+## 🚀 Tech Stack
 
 ### 🎨 Frontend  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" title="Maven"/>
 </div>
 
-### 🛢️ Banco de Dados  
+### 🛢️ Database  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
@@ -50,36 +50,36 @@
 
 ---
 
-## 💼 Projetos em Destaque
+## 💼 Featured Projects
 
-### 📚 BECAS | Sala de Estudos *(Aguardando Lançamento)*
-Plataforma colaborativa conectando estudantes com materiais de estudo de qualidade. Recursos incluem integração com webhooks da Hotmart, busca avançada, processamento de PDF, autenticação JWT e notificações por e-mail.
+### 📚 BECAS | Study Room *(Awaiting Launch)*
+A collaborative platform connecting students with quality study materials. Features Hotmart webhook integration, advanced search, PDF processing, JWT authentication, and email notifications.
 
-**Stack Tecnológico:** Java 21, Spark Framework, PostgreSQL, Apache PDFBox, JWT
+**Tech Stack:** Java 21, Spark Framework, PostgreSQL, Apache PDFBox, JWT
 
-### 🌱 EcoShop — Catálogo de Produtos Sustentáveis
-Plataforma web para descobrir produtos ecológicos com identificação de materiais via IA (Azure Custom Vision) e análise de sustentabilidade (Gemini API). Inclui conteúdo educacional e links diretos para produtos sustentáveis verificados.
+### 🌱 EcoShop — Sustainable Products Catalog
+Web platform for discovering eco-friendly products with AI-powered material identification (Azure Custom Vision) and sustainability analysis (Gemini API). Includes educational content and direct links to verified sustainable products.
 
-**Stack Tecnológico:** Java, Spark Framework, PostgreSQL, HTML5, CSS3, JavaScript
+**Tech Stack:** Java, Spark Framework, PostgreSQL, HTML5, CSS3, JavaScript
 
 ### 💰 [FinanceApp](https://github.com/maria-brito15/FinanceApp/)
-Gerenciador de finanças pessoais com autenticação segura, controle de transações, categorização de despesas e relatórios financeiros.
+Personal finance manager with secure authentication, transaction control, expense categorization, and financial reports.
 
-**Stack Tecnológico:** Spring Boot, React, PostgreSQL, JWT
+**Tech Stack:** Spring Boot, React, PostgreSQL, JWT
 
 ### 📦 [InventoryManager](https://github.com/maria-brito15/InventoryManager/)
-Sistema de controle de produtos com busca em tempo real, operações CRUD e design responsivo.
+Product control system with real-time search, CRUD operations, and responsive design.
 
-**Stack Tecnológico:** Spring Boot, HTML5, CSS3, JavaScript, Bootstrap
+**Tech Stack:** Spring Boot, HTML5, CSS3, JavaScript, Bootstrap
 
 ### 💧 [Water Reminder](https://github.com/maria-brito15/water-reminder-php/)
-Rastreador de hidratação com lembretes personalizáveis, sequências diárias e visualização de progresso.
+Hydration tracker with customizable reminders, daily streaks, and progress visualization.
 
-**Stack Tecnológico:** PHP, HTML5, CSS3, JavaScript
+**Tech Stack:** PHP, HTML5, CSS3, JavaScript
 
 ---
 
-## 💬 Conecte-se Comigo
+## 💬 Connect With Me
 
 <p align="left">
   <a href="https://github.com/maria-brito15" target="_blank">
@@ -92,10 +92,10 @@ Rastreador de hidratação com lembretes personalizáveis, sequências diárias 
 
 ---
 
-> 💭 *"Fale menos, programe mais!" — Hamilton*
+> 💭 *"Talk less, code more!" — Hamilton*
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maria-brito15&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=maria-brito15&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>

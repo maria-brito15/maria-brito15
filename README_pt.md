@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║  oi, eu sou a Duda — desenvolvedora full-stack em formação ║
-╚════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════╗
+║  oi, eu sou a Duda — estudante de arquitetura · dev full-stack  ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
-☕ movida a café &nbsp;·&nbsp; 🎓 Estudante de Ciência da Computação &nbsp;·&nbsp; 🎬 cinema, artes & música &nbsp;·&nbsp; 🌱 sempre construindo algo
+☕ movida a café &nbsp;·&nbsp; 🎓 CS @ PUC Minas &nbsp;·&nbsp; 🎬 cinema, artes & música &nbsp;·&nbsp; 🌱 sempre construindo algo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-brito-a18064358/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/maria-brito15)
@@ -20,36 +20,34 @@
 
 ## sobre mim
 
-Sou estudante de Ciência da Computação apaixonada por **desenvolvimento full-stack**, com foco em construir sistemas reais e prontos para produção. Gosto de toda a jornada — desde o design de modelos de dados e APIs REST até a criação de interfaces limpas e responsivas.
+Sou estudante de Ciência da Computação na **PUC Minas**, nos primeiros passos de uma jornada que vai além de escrever código: quero aprender a **projetar software com consciência**. Ainda estou longe de ser uma arquiteta — mas é exatamente esse o destino que me move.
 
-Meu trabalho é guiado por alguns princípios: **escrever código que escala, documentar o que importa e nunca parar de aprender.** Atualmente estou aprofundando minha expertise em Java/Spring Boot, TypeScript e padrões de design para sistemas distribuídos.
+Construo sistemas completos com foco em back-end — Node.js, Java e, agora, aprendendo Golang — enquanto mergulho nos fundamentos de arquitetura de software. Meu trabalho é guiado por alguns princípios: **escrever código que escala, documentar o que importa e nunca parar de aprender.**
+
+📍 Belo Horizonte, MG &nbsp;·&nbsp; Português (nativo) · Inglês (fluente) · Francês (básico)
 
 ---
 
 ## stack tecnológica
 
-**Linguagens**
+**Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 **Bancos de Dados & Cache**
 
@@ -58,55 +56,73 @@ Meu trabalho é guiado por alguns princípios: **escrever código que escala, do
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+**Testes**
+
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C5D928?style=flat-square&logo=java&logoColor=black)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square&logo=testcontainers&logoColor=white)
+
 **DevOps & Ferramentas**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Arquitetura (em estudo)**
+
+`C4 Model` `ADRs` `ATAM` `DDD (estratégico)` `Clean Architecture` `Quality Attributes` `Trade-off Analysis`
 
 ---
 
 ## projetos em destaque
 
-### 🍽️ TableCheck — Plataforma de Reservas para Restaurantes `[em desenvolvimento]`
+### 🍽️ TableCheck — Plataforma SaaS de Reservas para Restaurantes `[em desenvolvimento]`
 
 > **SaaS · Spring Boot · Multi-tenant · Stripe · PostgreSQL · Redis**
 
 Uma **plataforma SaaS multi-tenant** para gestão de reservas em restaurantes, construída com arquitetura de nível produtivo. Proprietários gerenciam toda a operação — mesas, disponibilidade, períodos de bloqueio, avaliações e analytics — enquanto clientes fazem reservas, remarcam e recebem lembretes automaticamente.
 
-**Destaques:**
-- Arquitetura multi-tenant com isolamento completo de dados por restaurante
-- Autenticação JWT com rotação de refresh token e blacklist gerenciada no **Redis**
+**Arquitetura & Segurança:**
+- Multi-tenant com isolamento completo de dados por restaurante
+- JWT com rotação de refresh token e blacklist gerenciada no **Redis**
 - Rate limiting por usuário/IP via **Bucket4j + Redis**
-- Lembretes por e-mail automatizados via **jobs agendados** (Quartz)
+- Trilha de auditoria completa e logs estruturados (Logstash + Logback)
+- Documentação OpenAPI/Swagger automática
+
+**Funcionalidades & Infra:**
+- Lembretes automáticos por e-mail via **jobs agendados** (Quartz)
 - Integração com webhooks do Stripe para cobrança por assinatura
 - Dashboard de analytics com métricas de ocupação e receita
-- Exportação para CSV; trilha completa de auditoria
-- Suite de testes de integração com **Testcontainers** + testes unitários com JUnit 5
-- Documentação OpenAPI/Swagger; logs estruturados via **Logstash + Logback**
-- Totalmente containerizado com Docker Compose
+- Exportação para CSV; suite de testes com **Testcontainers** + JUnit 5
+- Migrations versionadas com Flyway · Docker Compose completo
 
-`Java 21` `Spring Boot 3.5` `PostgreSQL` `Redis` `Flyway` `Stripe` `Docker` `GitHub Actions`
+`Java 21` `Spring Boot 3.5` `PostgreSQL` `Redis` `Flyway` `Bucket4j` `Stripe` `Testcontainers` `JUnit 5` `Docker` `GitHub Actions`
 
 ---
 
-### 🌿 [EcoShop](https://github.com/maria-brito15/ecoshop-nextjs) — E-Commerce de Produtos Sustentáveis
+### 🌿 [EcoShop](https://github.com/maria-brito15/ecoshop-nextjs) — E-Commerce de Produtos Sustentáveis `🏆 Finalista PUC Minas`
 
 > **Next.js 15 · IA · TypeScript · Prisma · Redis · Azure · Gemini**
 
-Plataforma de e-commerce full-stack para produtos sustentáveis com um **scanner de materiais por IA**. Aponte a câmera para qualquer objeto — o Azure Custom Vision identifica o material, e o Google Gemini retorna uma análise ambiental completa (tempo de decomposição, dicas de reciclagem, orientações de descarte).
+Plataforma de e-commerce full-stack para produtos sustentáveis com um **scanner de materiais por IA**. Nasceu como projeto acadêmico finalista e foi completamente reescrito para consolidar o aprendizado com uma stack moderna.
 
-**Destaques:**
-- Estratégia de cache em duas camadas: **Redis** no servidor + `Map` em memória com stale-while-revalidate no cliente
-- Autenticação JWT stateless com `jose` + `bcryptjs`, centralizada via Middleware do Next.js
-- Controle de acesso por roles: `ADMIN`, `CLIENTE`, `MARCA`
-- Painel administrativo com CRUD completo de produtos, categorias, marcas, certificados e usuários
+**v1 · Original (2025) — Java + Spark Framework**
+> Versão acadêmica selecionada entre os melhores projetos do semestre. Arquitetura MVC com camadas Controller → Service → DAO, autenticação com BCrypt e sessões, testes JUnit 5 + Mockito, deploy com Docker no Render.
+
+`Java` `Spark Framework` `PostgreSQL` `JDBC` `BCrypt` `JUnit 5` `Mockito` `Docker` `Azure Vision` `Gemini API`
+
+**v2 · Refatoração (2026) — Next.js 15 + TypeScript**
+> Reescrita completa com stack moderna. App Router, cache em duas camadas (Redis + Map stale-while-revalidate), Prisma ORM, JWT stateless com middleware centralizado e validação Zod em todas as rotas.
+
+- Cache em duas camadas: **Redis** (servidor) + `Map` stale-while-revalidate (cliente)
+- Scanner: Azure Custom Vision + Gemini 2.0 Flash
+- 3 roles de acesso: `ADMIN`, `CLIENTE`, `MARCA`
 - Fallback de IA: degradação graciosa quando Azure ou Gemini estão indisponíveis
-- Chat de sustentabilidade alimentado pelo Gemini 2.0 Flash
-- Build Docker multi-stage; pipeline de CI/CD publicando no **GitHub Container Registry**
+- CI/CD com GitHub Actions + GitHub Container Registry
 
-`Next.js 15` `TypeScript` `PostgreSQL` `Prisma` `Redis` `Azure Custom Vision` `Google Gemini` `Tailwind CSS` `Docker`
+`Next.js 15` `TypeScript 5` `Prisma 7` `PostgreSQL` `Redis 4` `JWT / jose` `Zod 3` `React 19` `Tailwind CSS 4` `Azure Custom Vision` `Gemini 2.0 Flash` `Docker` `GitHub Actions`
 
 ---
 
@@ -114,7 +130,7 @@ Plataforma de e-commerce full-stack para produtos sustentáveis com um **scanner
 
 > **Node.js · TypeScript · MongoDB · Redis · Docker**
 
-Um encurtador de URLs pronto para produção com **camada de cache Redis** para redirecionamentos em sub-milissegundos e rastreamento atômico de cliques. Arquitetura em camadas com validação via **Zod** e CI pelo GitHub Actions.
+Um encurtador de URLs pronto para produção com **camada de cache Redis** para redirecionamentos em sub-milissegundos e rastreamento atômico de cliques.
 
 **Destaques:**
 - Cache Redis com TTL de 10 minutos — cache-miss busca no MongoDB e repopula automaticamente
@@ -131,11 +147,21 @@ Um encurtador de URLs pronto para produção com **camada de cache Redis** para 
 
 > **Java · Spring Boot · PostgreSQL · JWT · PDFBox**
 
-Plataforma colaborativa que conecta estudantes a materiais de estudo de qualidade. Atualmente sendo refatorada para **Spring Boot** com uma arquitetura mais limpa e escalável.
+Plataforma colaborativa que conecta estudantes a materiais de estudo de qualidade. Sendo refatorada para Spring Boot com arquitetura mais limpa e escalável.
 
 **Funcionalidades planejadas:** integração com webhooks da Hotmart, busca avançada, processamento de PDF com Apache PDFBox, autenticação JWT e notificações por e-mail.
 
 `Java` `Spring Boot` `PostgreSQL` `JWT` `Apache PDFBox`
+
+---
+
+## extracurricular
+
+- 🏆 **2× Finalista — Melhores Trabalhos PUC Minas** · EcoShop e Planoriza (2025–2026)
+- ⚡ **Maratona SBC** · Participação na ICPC Brasil (2025)
+- 👩‍🏫 **Palestrante de Computação** · Instrutora de oficina de programação na PUC Minas (2025)
+- 📊 **Análise de Dados com Python** · Imersão Alura — pandas, matplotlib (2026)
+- 🎨 **DevArt — UI/UX & Animações** · Figma, design responsivo e animações (2026)
 
 ---
 
@@ -153,6 +179,6 @@ Plataforma colaborativa que conecta estudantes a materiais de estudo de qualidad
 
 <div align="center">
 
-*"Fale menos, programe mais."* - Hamilton
+*"Fale menos, programe mais."* — Hamilton
 
 </div>

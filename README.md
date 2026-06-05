@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  hey, I'm Duda — full-stack developer in the making  ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  hey, I'm Duda — software architecture student · full-stack dev  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-☕ fueled by coffee &nbsp;·&nbsp; 🎓 CS Student &nbsp;·&nbsp; 🎬 cinema, arts & music &nbsp;·&nbsp; 🌱 always building something
+☕ fueled by coffee &nbsp;·&nbsp; 🎓 CS @ PUC Minas &nbsp;·&nbsp; 🎬 cinema, arts & music &nbsp;·&nbsp; 🌱 always building something
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-brito-a18064358/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/maria-brito15)
@@ -20,36 +20,34 @@
 
 ## about me
 
-I'm a Computer Science student passionate about **full-stack development**, with a strong focus on building real, production-ready systems. I enjoy the full journey — from designing data models and REST APIs to crafting clean, responsive UIs.
+I'm a Computer Science student at **PUC Minas**, taking my first steps on a journey that goes beyond writing code: I want to learn how to **design software with intention**. I'm still far from being an architect — but that's exactly the destination that drives me.
 
-My work is guided by a few principles: **write code that scales, document what matters, and never stop learning.** Right now I'm deepening my expertise in Java/Spring Boot, TypeScript, and distributed system design patterns.
+I build full-stack systems with a back-end focus — Node.js, Java, and now learning Golang — while diving into the fundamentals of software architecture. My work is guided by a few principles: **write code that scales, document what matters, and never stop learning.**
+
+📍 Belo Horizonte, MG &nbsp;·&nbsp; Portuguese (native) · English (fluent) · French (basic)
 
 ---
 
 ## tech stack
 
-**Languages**
+**Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 **Databases & Cache**
 
@@ -58,55 +56,73 @@ My work is guided by a few principles: **write code that scales, document what m
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+**Testing**
+
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C5D928?style=flat-square&logo=java&logoColor=black)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square&logo=testcontainers&logoColor=white)
+
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Architecture (studying)**
+
+`C4 Model` `ADRs` `ATAM` `DDD (strategic)` `Clean Architecture` `Quality Attributes` `Trade-off Analysis`
 
 ---
 
 ## featured projects
 
-### 🍽️ TableCheck — Restaurant Reservation Platform `[in development]`
+### 🍽️ TableCheck — Restaurant Reservation SaaS Platform `[in development]`
 
 > **SaaS · Spring Boot · Multi-tenant · Stripe · PostgreSQL · Redis**
 
 A **multi-tenant SaaS platform** for restaurant reservation management, built with production-grade architecture. Owners manage their entire operation — tables, availability, blackout periods, reviews and analytics — while guests book, reschedule and get reminded automatically.
 
-**Highlights:**
-- Multi-tenant architecture with full data isolation per restaurant
+**Architecture & Security:**
+- Multi-tenant with full data isolation per restaurant
 - JWT auth with refresh token rotation and a Redis-backed blacklist
 - Rate limiting per user/IP via **Bucket4j + Redis**
+- Full audit log trail and structured logs (Logstash + Logback)
+- Automatic OpenAPI/Swagger documentation
+
+**Features & Infrastructure:**
 - Automated email reminders via **scheduled jobs** (Quartz)
 - Stripe webhook integration for subscription billing
 - Analytics dashboard with occupancy and revenue metrics
-- Exports to CSV; full audit log trail
-- **Testcontainers**-powered integration test suite + unit tests with JUnit 5
-- OpenAPI/Swagger docs; structured logs via **Logstash + Logback**
-- Fully containerized with Docker Compose
+- **Testcontainers**-powered integration test suite + JUnit 5
+- Versioned migrations with Flyway · Full Docker Compose setup
 
-`Java 21` `Spring Boot 3.5` `PostgreSQL` `Redis` `Flyway` `Stripe` `Docker` `GitHub Actions`
+`Java 21` `Spring Boot 3.5` `PostgreSQL` `Redis` `Flyway` `Bucket4j` `Stripe` `Testcontainers` `JUnit 5` `Docker` `GitHub Actions`
 
 ---
 
-### 🌿 [EcoShop](https://github.com/maria-brito15/ecoshop-nextjs) — Sustainable E-Commerce Platform
+### 🌿 [EcoShop](https://github.com/maria-brito15/ecoshop-nextjs) — Sustainable E-Commerce Platform `🏆 PUC Minas Finalist`
 
 > **Next.js 15 · AI · TypeScript · Prisma · Redis · Azure · Gemini**
 
-A full-stack e-commerce platform for eco-friendly products with an **AI-powered material scanner**. Point your camera at any object — Azure Custom Vision identifies the material, then Google Gemini returns a complete environmental analysis (decomposition time, recycling tips, disposal guidance).
+A full-stack e-commerce platform for eco-friendly products with an **AI-powered material scanner**. Born as a finalist academic project and completely rewritten to consolidate learning with a modern stack.
 
-**Highlights:**
-- Two-layer cache strategy: **Redis** on the server + in-memory `Map` with stale-while-revalidate on the client
-- JWT stateless auth with `jose` + `bcryptjs`, centralized via Next.js Middleware
+**v1 · Original (2025) — Java + Spark Framework**
+> Academic version selected among the semester's best projects. Classic MVC architecture with Controller → Service → DAO layers, direct PostgreSQL via JDBC, BCrypt session auth, JUnit 5 + Mockito tests, Docker deploy on Render.
+
+`Java` `Spark Framework` `PostgreSQL` `JDBC` `BCrypt` `JUnit 5` `Mockito` `Docker` `Azure Vision` `Gemini API`
+
+**v2 · Refactor (2026) — Next.js 15 + TypeScript**
+> Full rewrite with a modern stack. App Router, two-layer cache (Redis + Map stale-while-revalidate), typed Prisma ORM, stateless JWT with centralized middleware and Zod validation on every route.
+
+- Two-layer cache: **Redis** (server) + `Map` stale-while-revalidate (client)
+- AI scanner: Azure Custom Vision + Gemini 2.0 Flash
 - Role-based access control: `ADMIN`, `CLIENTE`, `MARCA`
-- Admin dashboard for full CRUD on products, categories, brands, certificates and users
 - AI fallback: graceful degradation if Azure or Gemini are unavailable
-- Sustainability chat powered by Gemini 2.0 Flash
-- Multi-stage Docker build; CI/CD pipeline publishing to **GitHub Container Registry**
+- CI/CD with GitHub Actions + GitHub Container Registry
 
-`Next.js 15` `TypeScript` `PostgreSQL` `Prisma` `Redis` `Azure Custom Vision` `Google Gemini` `Tailwind CSS` `Docker`
+`Next.js 15` `TypeScript 5` `Prisma 7` `PostgreSQL` `Redis 4` `JWT / jose` `Zod 3` `React 19` `Tailwind CSS 4` `Azure Custom Vision` `Gemini 2.0 Flash` `Docker` `GitHub Actions`
 
 ---
 
@@ -114,7 +130,7 @@ A full-stack e-commerce platform for eco-friendly products with an **AI-powered 
 
 > **Node.js · TypeScript · MongoDB · Redis · Docker**
 
-A production-ready URL shortener with a **Redis caching layer** for sub-millisecond redirects and atomic click tracking. Clean layered architecture with input validation via **Zod** and CI via GitHub Actions.
+A production-ready URL shortener with a **Redis caching layer** for sub-millisecond redirects and atomic click tracking.
 
 **Highlights:**
 - Redis cache with 10-minute TTL — cache-miss falls back to MongoDB and repopulates automatically
@@ -131,11 +147,21 @@ A production-ready URL shortener with a **Redis caching layer** for sub-millisec
 
 > **Java · Spring Boot · PostgreSQL · JWT · PDFBox**
 
-A collaborative platform connecting students with quality study materials. Currently being refactored to **Spring Boot** with a cleaner, more scalable architecture.
+A collaborative platform connecting students with quality study materials. Currently being refactored to Spring Boot with a cleaner, more scalable architecture.
 
 **Planned features:** Hotmart webhook integration, advanced search, PDF processing with Apache PDFBox, JWT authentication and email notifications.
 
 `Java` `Spring Boot` `PostgreSQL` `JWT` `Apache PDFBox`
+
+---
+
+## extracurricular
+
+- 🏆 **2× Finalist — Best Projects at PUC Minas** · EcoShop and Planoriza (2025–2026)
+- ⚡ **SBC Marathon** · ICPC Brasil participation (2025)
+- 👩‍🏫 **CS Speaker** · Programming workshop instructor at PUC Minas (2025)
+- 📊 **Data Analysis with Python** · Alura Immersion — pandas, matplotlib (2026)
+- 🎨 **DevArt — UI/UX & Animations** · Figma, responsive design and animations (2026)
 
 ---
 

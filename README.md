@@ -70,37 +70,9 @@ I build full-stack systems with a back-end focus — Node.js, Java, and now lear
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-**Architecture (studying)**
-
-`C4 Model` `ADRs` `ATAM` `DDD (strategic)` `Clean Architecture` `Quality Attributes` `Trade-off Analysis`
-
 ---
 
 ## featured projects
-
-### 🍽️ TableCheck — Restaurant Reservation SaaS Platform `[in development]`
-
-> **SaaS · Spring Boot · Multi-tenant · Stripe · PostgreSQL · Redis**
-
-A **multi-tenant SaaS platform** for restaurant reservation management, built with production-grade architecture. Owners manage their entire operation — tables, availability, blackout periods, reviews and analytics — while guests book, reschedule and get reminded automatically.
-
-**Architecture & Security:**
-- Multi-tenant with full data isolation per restaurant
-- JWT auth with refresh token rotation and a Redis-backed blacklist
-- Rate limiting per user/IP via **Bucket4j + Redis**
-- Full audit log trail and structured logs (Logstash + Logback)
-- Automatic OpenAPI/Swagger documentation
-
-**Features & Infrastructure:**
-- Automated email reminders via **scheduled jobs** (Quartz)
-- Stripe webhook integration for subscription billing
-- Analytics dashboard with occupancy and revenue metrics
-- **Testcontainers**-powered integration test suite + JUnit 5
-- Versioned migrations with Flyway · Full Docker Compose setup
-
-`Java 21` `Spring Boot 3.5` `PostgreSQL` `Redis` `Flyway` `Bucket4j` `Stripe` `Testcontainers` `JUnit 5` `Docker` `GitHub Actions`
-
----
 
 ### 🌿 [EcoShop](https://github.com/maria-brito15/ecoshop-nextjs) — Sustainable E-Commerce Platform `🏆 PUC Minas Finalist`
 

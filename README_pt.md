@@ -1,10 +1,3 @@
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║  oi, eu sou a Duda — estudante de arquitetura · dev full-stack  ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
 
 ☕ movida a café &nbsp;·&nbsp; 🎓 CS @ PUC Minas &nbsp;·&nbsp; 🎬 cinema, artes & música &nbsp;·&nbsp; 🌱 sempre construindo algo
 
@@ -49,18 +42,19 @@ Construo sistemas completos com foco em back-end — Node.js, Java e, agora, apr
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Bancos de Dados & Cache**
+**Bancos de Dados, Cache & Filas**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF4438?style=flat-square&logo=bullmq&logoColor=white)
 
 **Testes**
 
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-C5D928?style=flat-square&logo=java&logoColor=black)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square&logo=testcontainers&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 **DevOps & Ferramentas**
 
@@ -76,8 +70,6 @@ Construo sistemas completos com foco em back-end — Node.js, Java e, agora, apr
 
 ### 🌿 [EcoShop](https://github.com/maria-brito15/ecoshop-nextjs) — E-Commerce de Produtos Sustentáveis `🏆 Finalista PUC Minas`
 
-> **Next.js 15 · IA · TypeScript · Prisma · Redis · Azure · Gemini**
-
 Plataforma de e-commerce full-stack para produtos sustentáveis com um **scanner de materiais por IA**. Nasceu como projeto acadêmico finalista e foi completamente reescrito para consolidar o aprendizado com uma stack moderna.
 
 **v1 · Original (2025) — Java + Spark Framework**
@@ -90,7 +82,7 @@ Plataforma de e-commerce full-stack para produtos sustentáveis com um **scanner
 
 - Cache em duas camadas: **Redis** (servidor) + `Map` stale-while-revalidate (cliente)
 - Scanner: Azure Custom Vision + Gemini 2.0 Flash
-- 3 roles de acesso: `ADMIN`, `CLIENTE`, `MARCA`
+- 3 papéis de acesso: `ADMIN`, `CLIENTE`, `MARCA`
 - Fallback de IA: degradação graciosa quando Azure ou Gemini estão indisponíveis
 - CI/CD com GitHub Actions + GitHub Container Registry
 
@@ -99,8 +91,6 @@ Plataforma de e-commerce full-stack para produtos sustentáveis com um **scanner
 ---
 
 ### 🔗 [ShortURL](https://github.com/maria-brito15/shorturl-express) — Encurtador de URLs com Analytics de Cliques
-
-> **Node.js · TypeScript · MongoDB · Redis · Docker**
 
 Um encurtador de URLs pronto para produção com **camada de cache Redis** para redirecionamentos em sub-milissegundos e rastreamento atômico de cliques.
 
@@ -115,15 +105,18 @@ Um encurtador de URLs pronto para produção com **camada de cache Redis** para 
 
 ---
 
-### 📚 BECAS — Plataforma de Sala de Estudos `[aguardando lançamento · refatorando para Spring Boot]`
+### 🔌 [WhatsApp Dispatcher](https://github.com/maria-brito15/whatsapp-dispatcher) — Sistema de Disparo em Massa `em desenvolvimento`
 
-> **Java · Spring Boot · PostgreSQL · JWT · PDFBox**
+Um sistema de alto desempenho para disparo de mensagens no WhatsApp para campanhas e fluxos. Construído do zero com **Domain‑Driven Design**, **Arquitetura Limpa** e estrutura inspirada em hexagonal para manter a lógica de negócio independente da infraestrutura.
 
-Plataforma colaborativa que conecta estudantes a materiais de estudo de qualidade. Sendo refatorada para Spring Boot com arquitetura mais limpa e escalável.
+**O que o diferencia:**
+- **Scheduler + Workers:** BullMQ gerencia milhões de mensagens com retries, backoff e controle de concorrência
+- **Reconciliação em duas etapas:** recupera jobs travados e reativa fluxos com falha automaticamente
+- **Camada de cache:** Redis para contagens rápidas de status e redução da carga no banco
+- **Trilha de auditoria completa:** cada ação (enviado, falhou, pausado, concluído) é registrada
+- **Soft deletes e versionamento:** retenção segura de dados para ambientes de produção
 
-**Funcionalidades planejadas:** integração com webhooks da Hotmart, busca avançada, processamento de PDF com Apache PDFBox, autenticação JWT e notificações por e-mail.
-
-`Java` `Spring Boot` `PostgreSQL` `JWT` `Apache PDFBox`
+`Node.js 20` `TypeScript 5` `Prisma 7` `PostgreSQL` `Redis 4` `BullMQ` `Docker` `Zod` `JWT` `DDD` `Arquitetura Limpa`
 
 ---
 

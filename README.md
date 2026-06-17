@@ -49,18 +49,19 @@ I build full-stack systems with a back-end focus — Node.js, Java, and now lear
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Databases & Cache**
+**Databases, Cache & Job Queues**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF4438?style=flat-square&logo=bullmq&logoColor=white)
 
 **Testing**
 
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-C5D928?style=flat-square&logo=java&logoColor=black)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square&logo=testcontainers&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 **DevOps & Tools**
 
@@ -75,8 +76,6 @@ I build full-stack systems with a back-end focus — Node.js, Java, and now lear
 ## featured projects
 
 ### 🌿 [EcoShop](https://github.com/maria-brito15/ecoshop-nextjs) — Sustainable E-Commerce Platform `🏆 PUC Minas Finalist`
-
-> **Next.js 15 · AI · TypeScript · Prisma · Redis · Azure · Gemini**
 
 A full-stack e-commerce platform for eco-friendly products with an **AI-powered material scanner**. Born as a finalist academic project and completely rewritten to consolidate learning with a modern stack.
 
@@ -100,8 +99,6 @@ A full-stack e-commerce platform for eco-friendly products with an **AI-powered 
 
 ### 🔗 [ShortURL](https://github.com/maria-brito15/shorturl-express) — URL Shortener with Click Analytics
 
-> **Node.js · TypeScript · MongoDB · Redis · Docker**
-
 A production-ready URL shortener with a **Redis caching layer** for sub-millisecond redirects and atomic click tracking.
 
 **Highlights:**
@@ -115,15 +112,18 @@ A production-ready URL shortener with a **Redis caching layer** for sub-millisec
 
 ---
 
-### 📚 BECAS — Study Room Platform `[awaiting launch · Spring Boot refactor in progress]`
+## 🔌 [WhatsApp Dispatcher](https://github.com/maria-brito15/whatsapp-dispatcher) — Mass Messaging System `in development`
 
-> **Java · Spring Boot · PostgreSQL · JWT · PDFBox**
+A high‑performance message dispatcher for WhatsApp campaigns and flows. Built from scratch with **Domain‑Driven Design**, **Clean Architecture**, and a hexagonal‑inspired structure to keep business logic independent of infrastructure.
 
-A collaborative platform connecting students with quality study materials. Currently being refactored to Spring Boot with a cleaner, more scalable architecture.
+**What makes it different:**
+- **Scheduler + Workers:** BullMQ handles millions of messages with retries, backoff and concurrency control
+- **Two‑stage reconciliation:** recovers stalled jobs and re‑activates failed flows automatically
+- **Cache layer:** Redis for fast status counts and reduced database load
+- **Full audit trail:** every sent, failed, paused or completed action is logged
+- **Soft deletes & versioning:** safe data retention for production environments
 
-**Planned features:** Hotmart webhook integration, advanced search, PDF processing with Apache PDFBox, JWT authentication and email notifications.
-
-`Java` `Spring Boot` `PostgreSQL` `JWT` `Apache PDFBox`
+`Node.js 20` `TypeScript 5` `Prisma 7` `PostgreSQL` `Redis 4` `BullMQ` `Docker` `Zod` `JWT` `DDD` `Clean Architecture`
 
 ---
 

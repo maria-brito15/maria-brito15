@@ -15,7 +15,7 @@
 
 Sou estudante de Ciência da Computação na **PUC Minas**, nos primeiros passos de uma jornada que vai além de escrever código: quero aprender a **projetar software com consciência**. Ainda estou longe de ser uma arquiteta — mas é exatamente esse o destino que me move.
 
-Construo sistemas completos com foco em back-end — Node.js, Java e, agora, aprendendo Golang — enquanto mergulho nos fundamentos de arquitetura de software. Meu trabalho é guiado por alguns princípios: **escrever código que escala, documentar o que importa e nunca parar de aprender.**
+Construo sistemas completos com foco em back-end — Node.js/TypeScript — enquanto mergulho nos fundamentos de arquitetura de software. Meu trabalho é guiado por alguns princípios: **escrever código que escala, documentar o que importa e nunca parar de aprender.**
 
 📍 Belo Horizonte, MG &nbsp;·&nbsp; Português (nativo) · Inglês (fluente) · Francês (básico)
 

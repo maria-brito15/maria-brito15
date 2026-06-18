@@ -22,7 +22,7 @@
 
 I'm a Computer Science student at **PUC Minas**, taking my first steps on a journey that goes beyond writing code: I want to learn how to **design software with intention**. I'm still far from being an architect — but that's exactly the destination that drives me.
 
-I build full-stack systems with a back-end focus — Node.js, Java, and now learning Golang — while diving into the fundamentals of software architecture. My work is guided by a few principles: **write code that scales, document what matters, and never stop learning.**
+I build full-stack systems with a back-end focus — Node.js/TypeScript — while diving into the fundamentals of software architecture. My work is guided by a few principles: **write code that scales, document what matters, and never stop learning.**
 
 📍 Belo Horizonte, MG &nbsp;·&nbsp; Portuguese (native) · English (fluent) · French (basic)
 

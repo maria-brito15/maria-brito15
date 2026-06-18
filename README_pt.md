@@ -1,3 +1,8 @@
+```
+╔═══════════════════════════════════════╗
+║  oi! eu sou a Duda  · full-stack dev  ║
+╚═══════════════════════════════════════╝
+```
 
 ☕ movida a café &nbsp;·&nbsp; 🎓 CS @ PUC Minas &nbsp;·&nbsp; 🎬 cinema, artes & música &nbsp;·&nbsp; 🌱 sempre construindo algo
 

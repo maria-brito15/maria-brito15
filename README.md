@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-☕ fueled by coffee &nbsp;·&nbsp; 🎓 CS @ PUC Minas &nbsp;·&nbsp; 🎬 cinema, arts & music &nbsp;·&nbsp; 🌱 always building something
+☕ fueled by coffee &nbsp;·&nbsp; 🎓 SE @ PUC Minas &nbsp;·&nbsp; 🎬 cinema, arts & music &nbsp;·&nbsp; 🌱 always building something
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-brito-a18064358/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/maria-brito15)
@@ -20,7 +20,7 @@
 
 ## about me
 
-I'm a Computer Science student at **PUC Minas**, taking my first steps on a journey that goes beyond writing code: I want to learn how to **design software with intention**. I'm still far from being an architect — but that's exactly the destination that drives me.
+I'm a Software Engineering student at **PUC Minas**, taking my first steps on a journey that goes beyond writing code: I want to learn how to **design software with intention**. I'm still far from being an architect — but that's exactly the destination that drives me.
 
 I build full-stack systems with a back-end focus — Node.js/TypeScript — while diving into the fundamentals of software architecture. My work is guided by a few principles: **write code that scales, document what matters, and never stop learning.**
 

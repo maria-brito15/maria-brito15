@@ -4,7 +4,7 @@
 ╚═══════════════════════════════════════╝
 ```
 
-☕ movida a café &nbsp;·&nbsp; 🎓 CS @ PUC Minas &nbsp;·&nbsp; 🎬 cinema, artes & música &nbsp;·&nbsp; 🌱 sempre construindo algo
+☕ movida a café &nbsp;·&nbsp; 🎓 SE @ PUC Minas &nbsp;·&nbsp; 🎬 cinema, artes & música &nbsp;·&nbsp; 🌱 sempre construindo algo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-brito-a18064358/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/maria-brito15)
@@ -18,7 +18,7 @@
 
 ## sobre mim
 
-Sou estudante de Ciência da Computação na **PUC Minas**, nos primeiros passos de uma jornada que vai além de escrever código: quero aprender a **projetar software com consciência**. Ainda estou longe de ser uma arquiteta — mas é exatamente esse o destino que me move.
+Sou estudante de Engenharia de Software na **PUC Minas**, nos primeiros passos de uma jornada que vai além de escrever código: quero aprender a **projetar software com consciência**. Ainda estou longe de ser uma arquiteta — mas é exatamente esse o destino que me move.
 
 Construo sistemas completos com foco em back-end — Node.js/TypeScript — enquanto mergulho nos fundamentos de arquitetura de software. Meu trabalho é guiado por alguns princípios: **escrever código que escala, documentar o que importa e nunca parar de aprender.**
 

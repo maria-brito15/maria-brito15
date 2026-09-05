@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  hey, I'm Duda — software architecture student · full-stack dev  ║
+║  hey, I'm Duda — software engineering student · full-stack dev   ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -21,9 +21,9 @@
 
 ## about me
 
-I'm a Software Engineering student at **PUC Minas**, taking my first steps on a journey that goes beyond writing code: I want to learn how to **design software with intention**. I'm still far from being an architect — but that's exactly the destination that drives me.
+i'm a Software Engineering student at **PUC Minas**, building my career at the intersection of **Software Architecture**, **System Design**, **Product Engineering**, and **AI** — I want to learn how to **design systems with intention**, not just write code. I'm still far from being an architect — but that's exactly the destination that drives me.
 
-I build full-stack systems with a back-end focus — Node.js/TypeScript — while diving into the fundamentals of software architecture, project management, and technical leadership. My work is guided by a few principles: **write code that scales, document what matters, and never stop learning.**
+i build full-stack systems with a back-end focus — Node.js/TypeScript — while diving into architecture fundamentals and studying how AI is reshaping the way software gets built, from **Specification-Driven Development** to **AI-augmented engineering**. My work is guided by a few principles: **write code that scales, document what matters, and never stop learning.**
 
 📍 Belo Horizonte, MG &nbsp;·&nbsp; Portuguese (native) · English (fluent) · French (basic)
 

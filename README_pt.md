@@ -1,10 +1,10 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║   oi, eu sou a Duda — estudante de arquitetura de software ·     ║
-║                    dev full-stack                                ║
-╚══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║   oi, eu sou a Duda — estudante de engenharia de software     ║
+║                       dev full-stack                          ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 ☕ movida a café &nbsp;·&nbsp; 🎓 ES na PUC Minas &nbsp;·&nbsp; 🎬 cinema, artes & música &nbsp;·&nbsp; 🌱 sempre construindo algo
@@ -22,9 +22,10 @@
 
 ## sobre mim
 
-Sou estudante de Engenharia de Software na **PUC Minas**, dando meus primeiros passos em uma jornada que vai além de escrever código: quero aprender a **projetar software com intenção**. Ainda estou longe de ser uma arquiteta — mas é exatamente esse o destino que me move.
+sou estudante de Engenharia de Software na **PUC Minas**, construindo minha carreira na interseção entre **Software Architecture**, **System Design**, **Product Engineering** e **IA** — quero aprender a **projetar sistemas com intenção**, não só escrever código. Ainda estou longe de ser uma arquiteta — mas é exatamente esse o destino que me move.
 
-Construo sistemas full-stack com foco em back-end — Node.js/TypeScript — enquanto mergulho nos fundamentos de arquitetura de software, gestão de projetos e liderança técnica. Meu trabalho é guiado por alguns princípios: **escrever código que escala, documentar o que importa e nunca parar de aprender.**
+Construo sistemas full-stack com foco em back-end — Node.js/TypeScript — enquanto mergulho nos fundamentos de arquitetura e estudo como a IA está mudando a forma de construir software, do **Specification-Driven Development** ao **AI-augmented engineering**. Meu trabalho é guiado por alguns princípios: **escrever código que escala, documentar o que importa e nunca parar de aprender.**
+
 
 📍 Belo Horizonte, MG &nbsp;·&nbsp; Português (nativo) · Inglês (fluente) · Francês (básico)
 

@@ -69,6 +69,16 @@ Team member on structured projects with real deadlines and deliverables, working
 
 ## featured projects
 
+### 🔌 WhatsApp Dispatcher — Mass Messaging System `Case Study`
+
+An **architecture case study** exploring how a reliable WhatsApp mass-messaging system could be designed for campaigns and automated flows.
+
+The study covers **Domain-Driven Design, Clean Architecture, Hexagonal Architecture, asynchronous processing, idempotency, fault tolerance, distributed locking, and system reliability**, focusing on the reasoning behind the architectural decisions and their trade-offs.
+
+[→ Read the Case Study](https://mariabdev.netlify.app/cases/whatsapp-dispatcher)
+
+---
+
 ### 🌿 [EcoShop](https://github.com/maria-brito15/ecoshop-nextjs) — Sustainable E-Commerce Platform `🏆 PUC Minas Finalist`
 
 A full-stack e-commerce/catalog platform for eco-friendly products with an **AI-powered material scanner**. Born as a finalist academic project and completely rewritten solo to consolidate learning with a modern stack.
@@ -87,21 +97,6 @@ A full-stack e-commerce/catalog platform for eco-friendly products with an **AI-
 - CI/CD with GitHub Actions + GitHub Container Registry (lint, type-check, build, deploy via SSH)
 
 `Next.js 15` `TypeScript 5` `Prisma 7` `PostgreSQL` `Redis 4` `JWT / jose` `Zod 3` `React 19` `Tailwind CSS 4` `Azure Custom Vision` `Gemini 2.0 Flash` `Docker` `GitHub Actions`
-
----
-
-### 🔌 [WhatsApp Dispatcher](https://github.com/maria-brito15/whatsapp-dispatcher) — Mass Messaging System `in development`
-
-A high-performance message dispatcher for WhatsApp campaigns and flows, built from scratch to study architecture and reliability seriously — **Domain-Driven Design**, **Clean Architecture**, and a hexagonal-inspired structure keeping business logic independent of infrastructure.
-
-**What makes it different:**
-- **Scheduler + Workers:** BullMQ handles millions of messages with retries, backoff and concurrency control
-- **Two-stage reconciliation:** recovers stalled jobs and re-activates failed flows automatically
-- **Cache layer:** Redis for fast status counts and reduced database load
-- **Full audit trail:** every sent, failed, paused or completed action is logged
-- **Soft deletes & versioning:** safe data retention for production environments
-
-`Node.js 20` `TypeScript 5` `Prisma 7` `PostgreSQL` `Redis 4` `BullMQ` `Docker` `Zod` `JWT` `DDD` `Clean Architecture`
 
 ---
 

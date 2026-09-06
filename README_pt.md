@@ -3,7 +3,6 @@
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║   oi, eu sou a Duda — estudante de engenharia de software     ║
-║                       dev full-stack                          ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -71,6 +70,16 @@ Integrante de equipe em projetos estruturados, com prazos e entregas reais, trab
 
 ## projetos em destaque
 
+### 🔌 WhatsApp Dispatcher — Sistema de Mensagens em Massa `Case Study`
+
+Um **estudo de arquitetura de sistemas** no qual explorei como eu projetaria um dispatcher confiável para campanhas e fluxos de mensagens no WhatsApp.
+
+O estudo aborda **modelagem de domínio, limites arquiteturais, processamento assíncrono, tolerância a falhas, idempotência e escalabilidade**, documentando as decisões, trade-offs e os raciocínios por trás da arquitetura proposta.
+
+[→ Explorar o Case Study](https://mariabdev.netlify.app/cases/whatsapp-dispatcher)
+
+---
+
 ### 🌿 [EcoShop](https://github.com/maria-brito15/ecoshop-nextjs) — Plataforma de E-Commerce Sustentável `🏆 Finalista PUC Minas`
 
 Uma plataforma full-stack de e-commerce/catálogo de produtos ecológicos com um **scanner de materiais com IA**. Nasceu como projeto acadêmico finalista e foi completamente reescrita sozinha para consolidar o aprendizado com uma stack moderna.
@@ -89,21 +98,6 @@ Uma plataforma full-stack de e-commerce/catálogo de produtos ecológicos com um
 - CI/CD com GitHub Actions + GitHub Container Registry (lint, type-check, build, deploy via SSH)
 
 `Next.js 15` `TypeScript 5` `Prisma 7` `PostgreSQL` `Redis 4` `JWT / jose` `Zod 3` `React 19` `Tailwind CSS 4` `Azure Custom Vision` `Gemini 2.0 Flash` `Docker` `GitHub Actions`
-
----
-
-### 🔌 [WhatsApp Dispatcher](https://github.com/maria-brito15/whatsapp-dispatcher) — Sistema de Disparo de Mensagens `em desenvolvimento`
-
-Um dispatcher de mensagens de alta performance para campanhas e fluxos no WhatsApp, construído do zero para estudar arquitetura e confiabilidade a sério — **Domain-Driven Design**, **Clean Architecture** e uma estrutura inspirada em arquitetura hexagonal, mantendo a lógica de negócio independente da infraestrutura.
-
-**O que torna diferente:**
-- **Scheduler + Workers:** BullMQ lida com milhões de mensagens com retries, backoff e controle de concorrência
-- **Reconciliação em duas etapas:** recupera jobs travados e reativa fluxos que falharam automaticamente
-- **Camada de cache:** Redis para contagens de status rápidas e menos carga no banco
-- **Trilha de auditoria completa:** toda ação enviada, falha, pausada ou concluída é registrada
-- **Soft deletes & versionamento:** retenção segura de dados para ambientes de produção
-
-`Node.js 20` `TypeScript 5` `Prisma 7` `PostgreSQL` `Redis 4` `BullMQ` `Docker` `Zod` `JWT` `DDD` `Clean Architecture`
 
 ---
 
